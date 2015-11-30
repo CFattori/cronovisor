@@ -103,7 +103,10 @@ En conclusión, el programa Enlaces ha evitado la brecha de acceso; pero existen
 
 Para ordenar los resultados de este Simce enfocado en el impacto de las TIC en el aula se definió un estándar de habilidades TIC para el aprendizaje. Para esto se utilizó una metodología adoptada por el Ministerio de Educación desde el año 2007, basada en la definición de niveles de logro.
 
-Nivel de LogrosEDITAR
+
+### Nivel de Logros
+
+
 
 Estos niveles de logro son descripciones de los conocimientos y habilidades que se espera que demuestren los estudiantes en el manejo de tecnologías, clasificados en tres niveles: inicial, intermedio y avanzado.
 
@@ -123,7 +126,49 @@ Nivel avanzado: Puntajes entre 336 y 393
 
 Los alumnos y alumnas en este nivel hacen uso de las TIC para buscar, evaluar y seleccionar, reestructurar e integrar información de diversas fuentes y desarrollar e imprimir ideas propias en un producto que resuelve un problema en un contexto determinado. En su interacción en el contexto virtual, demuestran conocer los procedimientos de cuidado y seguridad en el uso del computador y de la información, reconocer potenciales situaciones de riesgo personal y comprender las consecuencias o impacto social de participar en actividades ilegales. Además evidencian un uso funcional avanzado de las herramientas digitales más complejas, lo que les permite resolver con flexibilidad y eficiencia un problema.
 
-Nivel de Logros Nacional
+
+### Nivel de Logros Nacional
+
+
 
 El puntaje promedio nacional alcanzado por los estudiantes de 2° Medio que rindieron la prueba corresponde a 249 puntos. Este resultado indica que están en un nivel Intermedio (sobre los 246 puntos). 
 
+El informe detalla que a nivel nacional" un 3,3% de los estudiantes de 2° Medio se encuentra en el Nivel Avanzado, es decir, alcanza el estándar deseado para este nivel de enseñanza; un 50,5% alcanza un Nivel Intermedio; y un 46,2% se ubica en el Nivel Inicial."
+
+
+### Nivel de Logros Regional
+
+
+
+En esta sección se observa que presentan un puntaje promedio superior a la media nacional son las región Metropolitana (258 puntos) y la región de Aysén (254 puntos).
+
+Sin embrago, la única región que muestra un desempeño significativamente superior a la media nacional es la región Metropolitana.
+
+En cuanto a las que registran los puntajes promedio más bajos son la región del Maule (232 puntos)y la región de Los Ríos (233 puntos). 
+
+
+### Por Nivel Socioeconómico
+
+
+
+En los resultados por Nivel Socioeconómicos se obtuvo que en términos generales, se observa que el puntaje promedio es mayor mientras más alto es el Grupo Socioeconómico.
+
+Los Grupos Socioeconómicos Bajo y Medio Bajo presentan un puntaje promedio inferior al puntaje promedio nacional.
+Los Grupos Medio Alto y Alto registran un puntaje promedio superior a la media nacional.
+
+
+### Por Dependencia Administrativa
+
+
+
+En cuanto a los resultados según Dependencia Administrativa se observa que:
+
+Los establecimientos educacionales Particulares Pagados: Obtienen 298 puntos. El puntaje promedio más elevado
+Los establecimientos educacionales Municipales: Obtienen 227 puntos.Por lo tanto se encuentran por debajo de la media nacional 2011.
+
+
+### Por Género
+
+
+
+Se obtiene que los hombres obtienen 247 puntos y las mujeres 250 puntos, por lo que las mujeres logran un resultado levemente superior al haber un resultado porcentual mayor en el nivel intermedio superior al de los hombres, sin que la diferencia sea significativa. 
