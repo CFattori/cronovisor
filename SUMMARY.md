@@ -8,7 +8,7 @@
    * [Impacto de las TIC en la Educación en Chile](part1/impactoticmd.md)
    * [Enfoque en las Bases curriculares de Historia](part1/enfoquemd.md)
 * [Propuesta](part2/readmemd.md)
-   * [Modelos Educativos](part2/modelos.md)
+   * [Modelos Educativos](part2/modelosmd.md)
    * [Mapa de Clases](part2/clases.md)
    * [Mapa de Navegación](part2/navegacion.md)
    * [Wireframes](part2/wireframes.md)
