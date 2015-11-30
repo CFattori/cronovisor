@@ -4,7 +4,7 @@
 * [Prólogo](prologo.md)
 * [Introducción](README.md)
 * [Antecedentes](part1/readmemd.md)
-   * [Gráficas Cronológicas](part1/gráficas.md)
+   * [Gráficas Cronológicas](part1/graficasmd.md)
    * [Impacto de las TIC en la Educación en Chile](part1/impactoticmd.md)
    * [Enfoque en las Bases curriculares de Historia](part1/enfoquemd.md)
 * [Propuesta](part2/readmemd.md)
