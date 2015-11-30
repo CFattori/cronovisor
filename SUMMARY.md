@@ -14,7 +14,7 @@
    * [Wireframes](part2/wireframesmd.md)
 * [Validación](part3/readmemd.md)
    * [Caso de Uso](part3/casodeusomd.md)
-   * [logotipo](part3/logotipo.md)
+   * [logotipo](part3/logotipomd.md)
    * [Iconos](part3/Iconos.md)
    * [Diseño de Interfaz](part3/interfaz.md)
 
