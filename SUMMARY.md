@@ -3,7 +3,7 @@
 * [Preliminar](preliminasr.md)
 * [Prólogo](prologo.md)
 * [Introducción](README.md)
-* [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+* [Antecedentes](part2/README.md)
+    * [Gráficas Cronológicas](part2/gráficas.md)
+    * [Impacto de las TIC en la Educación en Chile](part2/impactotic.md)
 
