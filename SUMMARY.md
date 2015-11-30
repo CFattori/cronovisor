@@ -1,7 +1,7 @@
-# Índice 
+# Summary
 
 * [Preliminar](preliminasr.md)
 * [Prólogo](prologo.md)
 * [Introduction](README.md)
-* [Capítulo 1](capitulo_01.md)
+* [Capítulo 1](propuesta.md)
 
