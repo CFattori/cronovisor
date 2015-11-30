@@ -4,6 +4,6 @@
 * [Prólogo](prologo.md)
 * [Introducción](README.md)
 * [Antecedentes](antecedentesmd.md)
-* [Proyecto](proyecto.md)
+* [Proyecto](proyectomd.md)
 * [Validación](validación.md)
 
