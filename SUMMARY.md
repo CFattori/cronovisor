@@ -10,7 +10,7 @@
 * [Propuesta](part2/readmemd.md)
    * [Modelos Educativos](part2/modelosmd.md)
    * [Mapa de Clases](part2/clasesmd.md)
-   * [Mapa de Navegación](part2/navegacion.md)
+   * [Mapa de Navegación](part2/navegacionmd.md)
    * [Wireframes](part2/wireframes.md)
 * [Validación](part3/readmemd.md)
    * [Caso de Uso](part3/casodeuso.md)
