@@ -3,5 +3,7 @@
 * [Preliminar](preliminasr.md)
 * [Prólogo](prologo.md)
 * [Introduction](README.md)
-* [Capítulo 1](propuesta.md)
-
+* [Propusta](propuesta.md)
+* [Antecedentes](antecedentes.md)
+* [Proyecto](proyecto.md)
+* [Validación](validación.md)
