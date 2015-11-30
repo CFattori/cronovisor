@@ -13,7 +13,7 @@
    * [Mapa de Navegación](part2/navegacionmd.md)
    * [Wireframes](part2/wireframesmd.md)
 * [Validación](part3/readmemd.md)
-   * [Caso de Uso](part3/casodeuso.md)
+   * [Caso de Uso](part3/casodeusomd.md)
    * [logotipo](part3/logotipo.md)
    * [Iconos](part3/Iconos.md)
    * [Diseño de Interfaz](part3/interfaz.md)
