@@ -12,4 +12,9 @@
     * [Mapa de Clases](part2/clases.md)
     * [Mapa de Navegación](part2/navegacion.md)
     * [Wireframes](part2/wireframes.md)
+* [Validación](part3/README.md)
+    * [Caso de Uso](part3/casodeuso.md)
+    * [logotipo](part3/logotipo.md)
+    * [Iconos](part3/Iconos.md)
+    * [Diseño de Interfaz](part3/interfaz.md)
 
