@@ -14,9 +14,9 @@ Las características de esta plataforma virtual; interactividad, búsqueda de co
 
 
 
-El constructivismo pedagógico nace bajo las ''teorías del conocimiento constructivista'' de mediados del s.XX, en el cual destacan como figuras clave cuatro pensadores cuyos trabajos se enmarcan en distintas corrientes del ''constructivismo'', cuyos principios destacados por Castillo, S. (2008)<ref>'''Castillo, S.'''(2008). Propuesta pedagógica basada en el constructivismo para el uso óptimo de las TIC en la enseñanza y el aprendizaje de la matemática. Revista latinoamericana de investigación en matemática educativa, 11(2), 171-194. visitado en http://www.scielo.org.mx/scielo.php?pid=S1665-24362008000200002&script=sci_arttext&tlng=en</ref> son: 
+El constructivismo pedagógico nace bajo las ''teorías del conocimiento constructivista'' de mediados del s.XX, en el cual destacan como figuras clave cuatro pensadores cuyos trabajos se enmarcan en distintas corrientes del ''constructivismo'', cuyos principios destacados por Castillo, S. (2008)son: 
 
-'''Jean Piaget''' (Constructivismo cognitivo):
+**Jean Piaget** (Constructivismo cognitivo):
 
 * El rol más importante del profesor es proveer un ambiente en el cual el niño pueda experimentar la investigación espontáneamente.
 
@@ -24,7 +24,7 @@ El constructivismo pedagógico nace bajo las ''teorías del conocimiento constru
 
 * El aprendizaje es un proceso social que debería suceder entre los grupos colaborativos con la interacción de los ''pares'' en escenarios lo más natural posible.
 
-'''Lev Vygotski''' (Constructivismo Socio-Cognitivo):
+**Lev Vygotski** (Constructivismo Socio-Cognitivo):
 
 * El aprendizaje y el desarrollo es una actividad social y colaborativa que no puede ser ''enseñada'' a nadie. Depende del estudiante construir su  propia comprensión en su propia mente
 
