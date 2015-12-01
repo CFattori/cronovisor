@@ -94,7 +94,12 @@ Gracias a las características de este modelo, se observa que este fomenta la co
 
 En la actualidad el uso de TICs, como herramientas en las escuelas coinciden con estos objetivos, pues permiten la interacción del alumno con el profesor y los demás estudiantes con el contenido de sus asignaturas de maneras diversas. Hoy el acceso a los contenidos es facilitado mediante varios recursos, principalmente el uso de internet, por lo que el objetivo de la educación con uso de TIC es la de preparar a los estudiantes para enfrentar el mundo interconectado y tecnológico de hoy.
 
-==Habilidades del siglo XXI==
+
+## Habilidades del siglo XXIText prior to footnote reference.[^2]
+[^2] Comment to include in footnote.
+
+
+
 
 El modelo constructivista también parece ser la base y satisfacer los nuevos emprendimientos y políticas educativas de los países desarrollados  las cuales tratan de desarrollar las habilidades que los estudiantes deberán dominar para insertarse en la sociedad global del presente siglo conocidas como '''“Habilidades del Siglo XXI“'''.<ref>'''EducarChile'''(2013),Introducción a las Habilidades del Siglo XXI. Visitado en http://www.educarchile.cl/ech/pro/app/detalle?id=219621 </ref>
 
@@ -125,32 +130,37 @@ http://www.brookings.edu/about/centers/universal-education/learning-metrics-task
 
 Las “Habilidades del Siglo XXI “, consisten en el desarrollo de la creatividad e innovación, pensamiento crítico y colaboración, siendo estas transversales para todas las asignaturas:
 
-===Pensamiento Crítico===
+
+### Pensamiento Crítico
+
+
 
 El pensamiento crítico se vale procesos como el análisis, la evaluación, la contextualización y la distinción crítica, para poder modificar contenidos, entenderlos correctamente, apropiarlos e internalizarlos al tomar distintos puntos de vista.
 
-<div style="border: 1px solid #74D1F6; background-color: #FFFFFF; color: #74D1F6; padding: 1em; text-align:left; width:400px; margin-bottom: 10px;">
 
-'''Es una habilidad que busca enseñar en al alumno: '''
+**Es una habilidad que busca enseñar en al alumno: 
+**
+* Realizar juicios documentados. 
+* Tomar decisiones luego del análisis, evaluación y contraste de argumentos, afirmaciones, puntos de vista y evidencias.
+* Discriminar la calidad de la información.
+* Exponer correcta y ordenadamente.
+* Pensar de manera autónoma. 
 
-*Realizar juicios documentados. 
-*Tomar decisiones luego del análisis, evaluación y contraste de argumentos, afirmaciones, puntos de vista y evidencias.
-*Discriminar la calidad de la información.
-*Exponer correcta y ordenadamente.
-*Pensar de manera autónoma. 
+**En cuanto para desarrollar esta habilidad el profesor debe:
+**
+* Presentar la mayor cantidad posible de puntos de vista alternativos.
+* Encargar la recolección de fuentes de información diversas para su interpretación. 
+* Impulsar la búsqueda de conexiones entre las piezas de material reunidas y la elaboración de conclusiones a partir de los mejores análisis. 
+* Fomentar la inducción, la deducción y el pensamiento sistémico.
 
-'''En cuanto para desarrollar esta habilidad el profesor debe: '''
 
-*Presentar la mayor cantidad posible de puntos de vista alternativos.
-*Encargar la recolección de fuentes de información diversas para su interpretación. 
-*Impulsar la búsqueda de conexiones entre las piezas de material reunidas y la elaboración de conclusiones a partir de los mejores análisis. 
-*Fomentar la inducción, la deducción y el pensamiento sistémico.
-
-</div>
 
 Todo esto se debe a que en el mundo actual y laboral se requiere de personas que rindan cuentas, entiendan y procesen información a la vez que el acceso a la información se realiza principalmente con internet donde la confiabilidad de la información se vuelve incierta. Por esto se requiere de personas que sepan tomar buenas desiciones, fundamentadas, a partir de distintas fuentes y escenarios, y sepan comunicarlas correctamente.
 
-===Creatividad e Innovación===
+
+### Creatividad e Innovación
+
+
 
 La creatividad es la habilidad con las que se generan ideas y se da solución a problemas nuevos, encontrar solución a problemas conocidos, o se generan nuevas asociaciones con ideas existentes personas lugares u objetos.
 
@@ -167,7 +177,8 @@ La creatividad es la habilidad con las que se generan ideas y se da solución a 
 * Permitir a los alumnos pensar en varias ideas (lluvia de ideas).
 * Hacer que respondan a problemas concretos haciendo uso del conocimiento.
 * Estimular la formulación de buenas preguntas.
-* Motivar la creación de proyectos con una aplicación real. Generar emprendimiento.
+* Motivar la creación de proyectos con una aplicación real. 
+* Generar emprendimiento.
 
 
 Es una habilidad que busca adaptarse al mundo cambiante de hoy, en la cual se busca dar solución a los nuevos problemas que surgen día a día, ya sea en el campo de la política pública o en la actividad privada. Por esto se requiere de personas que logren tomar de decisiones responsablemente, solucionen problemas, trabajen colaborativamente y revalúen el modo en que se hacen las cosas.
