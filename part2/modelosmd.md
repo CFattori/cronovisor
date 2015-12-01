@@ -102,17 +102,20 @@ Establece una buena relación interpersonal con los alumnos basada en valores qu
 
 En cuanto al papel que cumple el alumno, se debe lograr que este sea participativo y activo, debido a que la experiencia de aprendizaje, define Ramirez Toledo, es una construcción por interacción, entre el alumno y los estímulos externos.
 
-Así también señala que el objetivo del constructivismo es tratar “de motivar y enseñar al estudiante a pensar y actuar a través de contenidos significativos y contextualizados. En este proceso, el estudiante es el responsable de su proceso de aprendizaje”.
+Así también señala que el objetivo del constructivismo es tratar “*de motivar y enseñar al estudiante a pensar y actuar a través de contenidos significativos y contextualizados. En este proceso, el estudiante es el responsable de su proceso de aprendizaje*”.
 
 Gracias a las características de este modelo, se observa que este fomenta la construcción y utilización de herramientas que generen actividades tales que mediante su aplicación faciliten al profesor y al estudiante hacer del proceso de aprendizaje una experiencia interesante, significativa y personalizada. Pues el objetivo de este modelo es el desarrollar en el alumno destrezas y habilidades, más que memorizar contenidos, es el de generar personas creativas, con pensamiento autónomo, participativas y colaborativas.
 
 En la actualidad el uso de TICs, como herramientas en las escuelas coinciden con estos objetivos, pues permiten la interacción del alumno con el profesor y los demás estudiantes con el contenido de sus asignaturas de maneras diversas. Hoy el acceso a los contenidos es facilitado mediante varios recursos, principalmente el uso de internet, por lo que el objetivo de la educación con uso de TIC es la de preparar a los estudiantes para enfrentar el mundo interconectado y tecnológico de hoy.
 
-Habilidades del siglo XXI
 
-El modelo constructivista también parece ser la base y satisfacer los nuevos emprendimientos y políticas educativas de los países desarrollados las cuales tratan de desarrollar las habilidades que los estudiantes deberán dominar para insertarse en la sociedad global del presente siglo conocidas como “Habilidades del Siglo XXI“.[5]
+## Habilidades del siglo XXI
 
-En el informe de “Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE ("21stcentury skills and competences for new millennium learners in OECD countries")[6] le da su origen al ser el tema principal del Congreso Internacional sobre las Competencias del Siglo XXI que tuvo lugar en Bruselas el mes de septiembre de 2009 en el contexto de un proyecto de la OCDE/CERI sobre los Aprendices del Nuevo Milenio (NML).
+
+
+El modelo constructivista también parece ser la base y satisfacer los nuevos emprendimientos y políticas educativas de los países desarrollados las cuales tratan de desarrollar las habilidades que los estudiantes deberán dominar para insertarse en la sociedad global del presente siglo conocidas como “*Habilidades del Siglo XXI*“.[5]
+
+En el informe de “Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE (*21stcentury skills and competences for new millennium learners in OECD countries*)[6] le da su origen al ser el tema principal del Congreso Internacional sobre las Competencias del Siglo XXI que tuvo lugar en Bruselas el mes de septiembre de 2009 en el contexto de un proyecto de la OCDE/CERI sobre los Aprendices del Nuevo Milenio (NML).
 
 En este informe se explica que estas tienen como fundamento que los sistemas educativos ofrezcan nuevas habilidades y competencias, dado el desarrollo social y económico otorgado por las tecnologías, para que en aporten al desarrollo económico bajo un sistema cuya principal base es el conocimiento.
 
