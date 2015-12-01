@@ -103,7 +103,7 @@ En la actualidad el uso de TICs, como herramientas en las escuelas coinciden con
 ## Habilidades del siglo XXI
 
 
-El modelo constructivista también parece ser la base y satisfacer los nuevos emprendimientos y políticas educativas de los países desarrollados  las cuales tratan de desarrollar las habilidades que los estudiantes deberán dominar para insertarse en la sociedad global del presente siglo conocidas como '''“Habilidades del Siglo XXI“'''. 
+El modelo constructivista también parece ser la base y satisfacer los nuevos emprendimientos y políticas educativas de los países desarrollados  las cuales tratan de desarrollar las habilidades que los estudiantes deberán dominar para insertarse en la sociedad global del presente siglo conocidas como “Habilidades del Siglo XXI". 
 
 En el informe de “Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE (''"21stcentury skills and competences for new millennium learners in OECD countries"'') le da su origen al ser el tema principal del Congreso Internacional sobre las Competencias del Siglo XXI que tuvo lugar en Bruselas el mes de septiembre de 2009 en el contexto de un proyecto de la OCDE/CERI sobre los Aprendices del Nuevo Milenio (NML). 
 
@@ -111,7 +111,7 @@ En este informe se explica que estas tienen como fundamento que los sistemas edu
 
 De esta manera varias organizaciones y programas se han realizado para fomentar la aplicación de estas habilidades en los sistemas educativos:
 
-'''Consorcio de habilidades para el siglo XXI''' (P21)
+**Consorcio de habilidades para el siglo XXI** (P21)
 
 Propone unir los contenidos curriculares centrales con un conjunto de habilidades, competencias y contenidos adicionales para alinear los aprendizajes tradicionales con la realidad del mundo del trabajo. 
 
@@ -125,8 +125,7 @@ Es un programa global de estudios y desarrollo de recursos e instrumentos de eva
 
 Es un proyecto público-privado liderado por Australia, Finlandia, Singapur y Estados Unidos y auspiciado por Cisco, Microsoft e Intel, con énfasis en la resolución colaborativa de problemas y alfabetismo TIC. http://www.atc21s.org/
 
-**Grupo de trabajo Learning Metrics Task Force
-**
+**Grupo de trabajo Learning Metrics Task Force**
 
 Es un proyecto surgido a mediados de 2013 entre la UNESCO y el Centro para la Educación Universal del centro de estudios Brookings Institution para la creación de estándares de medición.
 http://www.brookings.edu/about/centers/universal-education/learning-metrics-task-force-2/about
