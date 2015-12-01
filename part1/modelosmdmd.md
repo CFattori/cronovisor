@@ -125,7 +125,8 @@ Es un programa global de estudios y desarrollo de recursos e instrumentos de eva
 
 Es un proyecto público-privado liderado por Australia, Finlandia, Singapur y Estados Unidos y auspiciado por Cisco, Microsoft e Intel, con énfasis en la resolución colaborativa de problemas y alfabetismo TIC. http://www.atc21s.org/
 
-'''Grupo de trabajo Learning Metrics Task Force''' 
+**Grupo de trabajo Learning Metrics Task Force
+**
 
 Es un proyecto surgido a mediados de 2013 entre la UNESCO y el Centro para la Educación Universal del centro de estudios Brookings Institution para la creación de estándares de medición.
 http://www.brookings.edu/about/centers/universal-education/learning-metrics-task-force-2/about
