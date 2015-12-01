@@ -109,15 +109,14 @@ Entrevista a Profesor Jefe de Historia
 
 1. **¿curso a los que imparte historia?**
 
-
 *-7º básico, 8º básico, 1º medio y 3º medio diferenciado.*
 
-1. **¿está familiarizado con las propuestas de la reforma educacional del gobierno para estos cursos?**
+2. **¿está familiarizado con las propuestas de la reforma educacional del gobierno para estos cursos?**
 
 
--Para estos cursos, claro. Todos los años se van mostrando nuevos programas y uno debe ir adaptándolos según lo que necesite el establecimiento. Si el establecimiento dice que se deben adoptar nuevos programas se van desarrollando. Con respecto a las reforma educacional obviamente habrían elementos que son interesantes y que se podrían analizar largamente, pero que hay que debatir.
+*-Para estos cursos, claro. Todos los años se van mostrando nuevos programas y uno debe ir adaptándolos según lo que necesite el establecimiento. Si el establecimiento dice que se deben adoptar nuevos programas se van desarrollando. Con respecto a las reforma educacional obviamente habrían elementos que son interesantes y que se podrían analizar largamente, pero que hay que debatir.*
 
-¿qué opina acerca de la implementación de la tecnología digital como las tablets en los curso de 5º básico y parvularios?¿Piensa que pueden ser útiles a sus alumnos también?
+2. ¿qué opina acerca de la implementación de la tecnología digital como las tablets en los curso de 5º básico y parvularios?¿Piensa que pueden ser útiles a sus alumnos también?
 
 -Es que son útiles. Por lo menos a lo que corresponde a Historia la posibilidad de hacer investigación relacionadas al tema, la construcción de mapas conceptuales, mapas semánticos, powerpoints, la búsqueda de información en internet. Puede ser muy relevante, ya? Ahora, el hecho que se formule una reforma para la utilización de tablets y equipos computacionales a muy temprana edad permite formar a las personas en cuanto a eso. Cuando lleguen a la edad de 7 años, 8 años, más que nada le hacen un mal uso, ya? la mayor parte es más para juego, en cambio, si empezamos a utilizar las tecnologías de la información a temprana edad de manera educativa, los chicos ya no tienen solamente el juego como forma de ver las tecnologías sino también como educación. Y por l menos por ahí a mi me parece positivo.
 
