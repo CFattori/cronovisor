@@ -117,11 +117,11 @@ Propone unir los contenidos curriculares centrales con un conjunto de habilidade
 
 http://www.p21.org/
 
-'''PIL-Network'''
+**PIL-Network**
 
 Es un programa global de estudios y desarrollo de recursos e instrumentos de evaluación para las habilidades del siglo XXI liderado y ejecutado por Microsoft. http://www.educatornetwork.com/
 
-'''Evaluación y enseñanza de habilidades para el siglo XXI'''(ATC21S) 
+**Evaluación y enseñanza de habilidades para el siglo XXI**(ATC21S) 
 
 Es un proyecto público-privado liderado por Australia, Finlandia, Singapur y Estados Unidos y auspiciado por Cisco, Microsoft e Intel, con énfasis en la resolución colaborativa de problemas y alfabetismo TIC. http://www.atc21s.org/
 
@@ -131,7 +131,7 @@ Es un proyecto público-privado liderado por Australia, Finlandia, Singapur y Es
 Es un proyecto surgido a mediados de 2013 entre la UNESCO y el Centro para la Educación Universal del centro de estudios Brookings Institution para la creación de estándares de medición.
 http://www.brookings.edu/about/centers/universal-education/learning-metrics-task-force-2/about
 
-Las “Habilidades del Siglo XXI “, consisten en el desarrollo de la creatividad e innovación, pensamiento crítico y colaboración, siendo estas transversales para todas las asignaturas:
+Las “*Habilidades del Siglo XXI*", consisten en el desarrollo de la creatividad e innovación, pensamiento crítico y colaboración, siendo estas transversales para todas las asignaturas:
 
 
 ### Pensamiento Crítico
