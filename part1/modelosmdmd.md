@@ -78,13 +78,13 @@ También se destaca, según Ramírez Toledo <ref>'''Toledo, A. R.''' El Construc
 
 Dada la relevancia de la función del docente, se define que un profesor constructivista debe reunir las siguientes características: 
 
-*Es un mediador entre el conocimiento y el aprendizaje del alumno.
-*Es un profesional reflexivo que piensa críticamente en su práctica, toma decisiones y soluciona problemas pertinentes al contexto de sus clases.
-*Promueve el aprendizaje significativo, que tenga sentido y que sea funcional para los alumnos.
-*Preste ayuda pedagógica ajustada a la diversidad de necesidades o intereses y situaciones en que se involucran los alumnos.
-*Respeta a sus alumnos, sus opiniones aunque no las comparta.
-*Establece una buena relación interpersonal con los alumnos basada en valores que intenta enseñar: el respeto, la tolerancia, la empatía, la convivencia, etc.
-*Evita apoderarse de las palabras y convertirse en un simple transmisor de influencias, es decir no caer en la enseñanza verbalista o unidireccional.
+* Es un mediador entre el conocimiento y el aprendizaje del alumno.
+* Es un profesional reflexivo que piensa críticamente en su práctica, toma decisiones y soluciona problemas pertinentes al contexto de sus clases.
+* Promueve el aprendizaje significativo, que tenga sentido y que sea funcional para los alumnos.
+* Preste ayuda pedagógica ajustada a la diversidad de necesidades o intereses y situaciones en que se involucran los alumnos.
+* Respeta a sus alumnos, sus opiniones aunque no las comparta.
+* Establece una buena relación interpersonal con los alumnos basada en valores que intenta enseñar: el respeto, la tolerancia, la empatía, la convivencia, etc.
+* Evita apoderarse de las palabras y convertirse en un simple transmisor de influencias, es decir no caer en la enseñanza verbalista o unidireccional.
 
 En cuanto al papel que cumple el alumno, se debe lograr que este sea participativo y activo, debido a que la experiencia de aprendizaje, define Ramirez Toledo, es una construcción por interacción, entre el alumno y los estímulos externos. 
 
@@ -95,13 +95,10 @@ Gracias a las características de este modelo, se observa que este fomenta la co
 En la actualidad el uso de TICs, como herramientas en las escuelas coinciden con estos objetivos, pues permiten la interacción del alumno con el profesor y los demás estudiantes con el contenido de sus asignaturas de maneras diversas. Hoy el acceso a los contenidos es facilitado mediante varios recursos, principalmente el uso de internet, por lo que el objetivo de la educación con uso de TIC es la de preparar a los estudiantes para enfrentar el mundo interconectado y tecnológico de hoy.
 
 
-## Habilidades del siglo XXIText prior to footnote reference.[^2]
-[^2] Comment to include in footnote.
+## Habilidades del siglo XXI
 
 
-
-
-El modelo constructivista también parece ser la base y satisfacer los nuevos emprendimientos y políticas educativas de los países desarrollados  las cuales tratan de desarrollar las habilidades que los estudiantes deberán dominar para insertarse en la sociedad global del presente siglo conocidas como '''“Habilidades del Siglo XXI“'''.<ref>'''EducarChile'''(2013),Introducción a las Habilidades del Siglo XXI. Visitado en http://www.educarchile.cl/ech/pro/app/detalle?id=219621 </ref>
+El modelo constructivista también parece ser la base y satisfacer los nuevos emprendimientos y políticas educativas de los países desarrollados  las cuales tratan de desarrollar las habilidades que los estudiantes deberán dominar para insertarse en la sociedad global del presente siglo conocidas como '''“Habilidades del Siglo XXI“'''.[^2]'''EducarChile'''(2013),Introducción a las Habilidades del Siglo XXI. Visitado en http://www.educarchile.cl/ech/pro/app/detalle?id=219621 
 
 En el informe de “Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE (''"21stcentury skills and competences for new millennium learners in OECD countries"'')<ref> '''Instituto de Tecnologías Educativas''' (2010) Habilidades y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la OCDE.Visitado en http://recursostic.educacion.es/blogs/europa/media/blogs/europa/informes/Habilidades_y_competencias_siglo21_OCDE.pdf</ref> le da su origen al ser el tema principal del Congreso Internacional sobre las Competencias del Siglo XXI que tuvo lugar en Bruselas el mes de septiembre de 2009 en el contexto de un proyecto de la OCDE/CERI sobre los Aprendices del Nuevo Milenio (NML). 
 
