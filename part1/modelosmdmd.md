@@ -154,25 +154,27 @@ Todo esto se debe a que en el mundo actual y laboral se requiere de personas que
 
 La creatividad es la habilidad con las que se generan ideas y se da solución a problemas nuevos, encontrar solución a problemas conocidos, o se generan nuevas asociaciones con ideas existentes personas lugares u objetos.
 
-<div style="border: 1px solid #EFB240; background-color: #FFFFFF; color: #EFB240; padding: 1em; text-align:left; width:400px; margin-bottom: 10px;">
-'''Es una habilidad que busca desarrollar en al alumno:'''
 
-*La capacidad de observar y escuchar atentamente el entorno. 
-*Encontrar grandes ideas y llevarlas a la práctica.
-*Analizar situaciones previas y elaborar estrategias para resolver problemas.
+**Es una habilidad que busca desarrollar en al alumno:
+**
+* La capacidad de observar y escuchar atentamente el entorno. 
+* Encontrar grandes ideas y llevarlas a la práctica.
+* Analizar situaciones previas y elaborar estrategias para resolver problemas.
 
-'''En cuanto para desarrollar esta habilidad el profesor debe:'''
+**En cuanto para desarrollar esta habilidad el profesor debe:
+**
+* Fortalecer la imaginación presentando muchas preguntas.
+* Permitir a los alumnos pensar en varias ideas (lluvia de ideas).
+* Hacer que respondan a problemas concretos haciendo uso del conocimiento.
+* Estimular la formulación de buenas preguntas.
+* Motivar la creación de proyectos con una aplicación real. Generar emprendimiento.
 
-*Fortalecer la imaginación presentando muchas preguntas.
-*Permitir a los alumnos pensar en varias ideas (lluvia de ideas).
-*Hacer que respondan a problemas concretos haciendo uso del conocimiento.
-*Estimular la formulación de buenas preguntas.
-*Motivar la creación de proyectos con una aplicación real. Generar emprendimiento.
-</div>
 
 Es una habilidad que busca adaptarse al mundo cambiante de hoy, en la cual se busca dar solución a los nuevos problemas que surgen día a día, ya sea en el campo de la política pública o en la actividad privada. Por esto se requiere de personas que logren tomar de decisiones responsablemente, solucionen problemas, trabajen colaborativamente y revalúen el modo en que se hacen las cosas.
 
-===Colaboración===
+
+### Colaboración
+
 
 
 **Es una habilidad que busca desarrollar en al alumno:
@@ -183,8 +185,8 @@ Es una habilidad que busca adaptarse al mundo cambiante de hoy, en la cual se bu
 * La distribución de tareas.
 * El saber escuchar a otros y la integración de las ideas en un todo coherente. 
 
-Para desarrollar esta habilidad el profesor puede:
-
+**Para desarrollar esta habilidad el profesor puede:
+**
 * Crear actividades encaminadas a la solución de problemas concretos.
 * Uso de TICs para el trabajo colaborativo a distancia.
 * Incorporar otros alumnos del colegio, profesores de otras asignaturas, otros establecimientos, miembros de la comunidad o algún tutor.
