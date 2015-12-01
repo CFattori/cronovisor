@@ -2,11 +2,17 @@
 
 Al ser esta plataforma virtual una herramienta con fin educativo debe sustentarse de un modelo teórico educativo presente en la realidad escolar chilena que lo avale y permita su aplicación. Es así como se ha hallado que las características de la plataforma virtual que se propone crear satisfacen los requerimientos del modelo actual presente en las aulas chilenas conocido como “constructivismo”, de igual manera se adecua al plan de mejoramiento de la educación “habilidades TIC para el aprendizaje”, los cuales se explican a continuación.
 
-==Constructivismo como modelo==
+
+## Constructivismo como modelo
+
+
 
 Las características de esta plataforma virtual; interactividad, búsqueda de contenido y la creación de presentaciones, ponen al estudiante como creador de su propia experiencia de aprendizaje y por lo tanto de su conocimiento, y al rol del profesor no sólo como un expositor de conocimiento sino como guía, como apoyo, como mediador del conocimiento y el aprendizaje del estudiante. Estas características de enseñanza coinciden con los objetivos pedagógicos del modelo constructivista. 
 
-===El constructivismo pedagógico===
+
+### El constructivismo pedagógico
+
+
 
 El constructivismo pedagógico nace bajo las ''teorías del conocimiento constructivista'' de mediados del s.XX, en el cual destacan como figuras clave cuatro pensadores cuyos trabajos se enmarcan en distintas corrientes del ''constructivismo'', cuyos principios destacados por Castillo, S. (2008)<ref>'''Castillo, S.'''(2008). Propuesta pedagógica basada en el constructivismo para el uso óptimo de las TIC en la enseñanza y el aprendizaje de la matemática. Revista latinoamericana de investigación en matemática educativa, 11(2), 171-194. visitado en http://www.scielo.org.mx/scielo.php?pid=S1665-24362008000200002&script=sci_arttext&tlng=en</ref> son: 
 
@@ -168,118 +174,131 @@ Es una habilidad que busca adaptarse al mundo cambiante de hoy, en la cual se bu
 
 ===Colaboración===
 
-<div style="border: 1px solid #A36AB5; background-color: #FFFFFF; color: #A36AB5; padding: 1em; text-align:left; width:400px; margin-bottom: 10px;">
-'''Es una habilidad que busca desarrollar en al alumno:'''
 
-*La negociación.
-*La resolución de conflictos.
-*La toma de decisiones.
-*La distribución de tareas.
-*El saber escuchar a otros y la integración de las ideas en un todo coherente. 
+**Es una habilidad que busca desarrollar en al alumno:
+**
+* La negociación.
+* La resolución de conflictos.
+* La toma de decisiones.
+* La distribución de tareas.
+* El saber escuchar a otros y la integración de las ideas en un todo coherente. 
 
-'''Para desarrollar esta habilidad el profesor puede:'''
+Para desarrollar esta habilidad el profesor puede:
 
-*Crear actividades encaminadas a la solución de problemas concretos.
-*Uso de TICs para el trabajo colaborativo a distancia.
-*Incorporar otros alumnos del colegio, profesores de otras asignaturas, otros establecimientos, miembros de la comunidad o algún tutor.
-</div>
+* Crear actividades encaminadas a la solución de problemas concretos.
+* Uso de TICs para el trabajo colaborativo a distancia.
+* Incorporar otros alumnos del colegio, profesores de otras asignaturas, otros establecimientos, miembros de la comunidad o algún tutor.
+
 
 Tomando en cuenta de que vivimos en un mundo globalizado y que dado el desarrollo de las comunicaciones se da la posibilidad de trabajar a distancia, hoy existen tareas que deben resolverse de manera colaborativa, muchas veces en grupos interdisciplinarios e incluso interculturales. Por ello es necesario incorporar actividades, tareas y evaluaciones que desarrollen la habilidad de los estudiantes de trabajar en conjunto.
 
 
-De esta manera las ''“Habilidades del Siglo XXI “'', consistente en el desarrollo de la creatividad e innovación, pensamiento crítico y colaboración, fueron consideradas por el programa Enlaces del Ministerio de Educación, el cual creó una matriz, la cual tiene como objetivo aplicar el uso de Tics para el desarrollo de estas habilidades, la cual denominó ''“Las Habilidades TIC para el aprendizaje”''.
+De esta manera las **“Habilidades del Siglo XXI”**, consistente en el desarrollo de la creatividad e innovación, pensamiento crítico y colaboración, fueron consideradas por el programa Enlaces del Ministerio de Educación, el cual creó una matriz, la cual tiene como objetivo aplicar el uso de Tics para el desarrollo de estas habilidades, la cual denominó **“Las Habilidades TIC para el aprendizaje”**.
 
-==Habilidades Tic para le aprendizaje==
 
-La matriz de Habilidades TIC para el aprendizaje del programa Enlaces del Ministerio de Educación <ref>'''Enlaces'''(2013), Matriz de Habilidades TIC para el Aprendizaje. Visitado en http://www.enlaces.cl/index.php?t=44&i=2&cc=2285&tm=2 [[Archivo:Matriz TIC Final.pdf]]</ref> está organizado en cuatro dimensiones, las cuales agrupan una serie de habilidades, que son las siguientes:
+## Habilidades Tic para le aprendizaje
 
-===Información===
+
+
+La matriz de Habilidades TIC para el aprendizaje del programa Enlaces del Ministerio de Educación  está organizado en cuatro dimensiones, las cuales agrupan una serie de habilidades, que son las siguientes:
+
+
+### Información
+
+
 
 Agrupa las habilidades relacionadas con buscar, seleccionar, evaluar y organizar información digital. El estudiante debe ser capaz de transformarla o adaptarla para hacer un nuevo producto o desarrollar una nueva idea.
 
-<div style="border: 1px solid #74D1F6; background-color: #FFFFFF; color: #74D1F6; padding: 1em; text-align:left; width:400px; margin-bottom: 10px;">
-'''Información como fuente''':
 
+**Información como fuente:
+**
 * Definir la información que se necesita
 * Buscar y acceder a la información
 * Evaluar y seleccionar información
 * Organizar información
 
-'''Información como producto''':
+**Información como producto:**
 
 * Planificar la elaboración de un producto de información
 * Sintetizar información digital
 * Comprobar modelos o teoremas de ambiente digital
 * Generar un nuevo producto de información
-</div>
 
-===Comunicación y colaboración===
+
+**Comunicación y colaboración**
 
 Agrupa las habilidades que tienen relación con transmitir, intercambiar ideas y trabajar con otros a distancia usando la tecnología.
 
-<div style="border: 1px solid #A36AB5; background-color: #FFFFFF; color: #A36AB5; padding: 1em; text-align:left; width:400px; margin-bottom: 10px;">
-'''Comunicación efectiva'''
+
+**Comunicación efectiva**
 
 * Utilizar protocolos sociales en ambiente digital
 * Presentar información en función a una audiencia
 * Transmitir información considerando objetivo y audiencia
 
-'''Colaboración a distancia'''
+**Colaboración a distancia**
 
-*Colaborar con otros a distancia para elaborar un producto de información
-</div>
+* Colaborar con otros a distancia para elaborar un producto de información
 
-===Convivencia digital===
+
+
+### Convivencia digital
+
+
 
 Agrupa las habilidades relacionadas a la formación ética de los estudiantes: saber usar las TIC de forma responsable, comprender los riesgos y oportunidades de internet y ser capaz de decidir los límites de compartir información.
 
-<div style="border: 1px solid #52CCBE; background-color: #FFFFFF; color: #52CCBE; padding: 1em; text-align:left; width:400px; margin-bottom: 10px;">
-'''ética y autocuidado'''
+
+**ética y autocuidado**
 
 * Identificar oportunidades y riesgos en ambiente digital y aplicar estrategias de protección de la información personal y la de los otros.
 * Conocer los derechos propios, y aplicar estrategias de protección de la información en ambiente digital
 * Respetar la propiedad intelectual 
 
-'''TIC y sociedad'''
+**TIC y sociedad**
 
 * Comprender el impacto social de las TIC
 
-</div>
+
 
 ===Tecnología===
 
 Agrupa las habilidades necesarias para entender conceptos relacionados con las TIC, saber resolver problemas técnicos simples y utilizar las aplicaciones de uso más extendido, como el procesador de texto, planillas de cálculo, editor de presentaciones, entre otros.
 
-<div style="border: 1px solid #EFB240; background-color: #FFFFFF; color: #EFB240; padding: 1em; text-align:left; width:400px; margin-bottom: 10px;">
-'''Conocimientos TIC'''
 
+**Conocimientos TIC
+**
 * Dominar conceptos TIC básicos
 
-'''Saber operar las TIC'''
-
+**Saber operar las TIC
+**
 * Cuidar y realizar un uso seguro del equipamiento
 * Resolver problemas técnicos
 
-'''Saber usar las TIC'''
-
+**Saber usar las TIC
+**
 * Dominar aplicaciones de uso más extendido
 
 </div>
 
 Para el desarrollo de este proyecto este está concentrado en satisfacer las  siguientes habilidades:
 
-===Información===
+
+### Información
+
+
 
 Comprende las habilidades de Buscar, seleccionar, evaluar y organizar información digital.
 Aquí el estudiante debe poder lograr crear un nuevo producto o una nueva idea. Está relacionada con las habilidades del s.XXI de creatividad en la cual el estudiante debe ser observador, reconocer la realidad que lo rodea, usar su conocimiento y  buscar nuevas relaciones ya sea entre personas, lugares y objetos. También tiene que ver con la habilidad de pensamiento crítico la cual tiene que ver con  discriminar la calidad de la información, exponer correcta y ordenadamente y pensar de manera autónoma. Requiere la búsqueda de conexiones entre las piezas de material reunido y la elaboración de conclusiones a partir de los mejores análisis.
 
-===Comunicación y Colaboración===
+
+### Comunicación y Colaboración
+
+
 
 La cual agrupa las habilidades de transmitir e intercambiar ideas y trabajar a distancia con el uso de la tecnología. En el trabajo colaborativo todos poseen un rol protagónico y son responsables por el resultado final. Es una habilidad del s.XXI relacionada con la negociación, la resolución de conflictos, la toma de decisiones, la distribución de tareas, el saber escuchar a otros y la integración de las ideas en un todo.
 
 
 De esta manera el proyecto de plataforma virtual busca satisfacer los requerimientos de estas propuestas educativas concentrada en una forma de aplicarla las clase de historia.
 
-==Fuentes== 
 
-<references/>
