@@ -73,8 +73,8 @@ Según Antonio Ramírez ,  las características esenciales de la acción constru
  
 También se destaca, según Ramírez Toledo <ref>'''Toledo, A. R.''' El Constructivismo Pedagógico. Lic., en Pedagogía. Universidad Veracruzana. Catedrático del Colegio de Altos Estudios de Acagucan, Ven. Visitado en http://ww2.educarchile.cl/UserFiles/P0001/File/El%20Constructivismo%20Pedag%C3%B3gico.pdf</ref>, que algunas de las condiciones necesarias para potencializar la enseñanza constructivista son:
 
-*Crear un clima para la libre expresión del estudiante, sin coaccionar y sin temor a equivocarse.
-*Proporcionar las condiciones para que el estudiante sea participe del proceso de enseñanza-aprendizaje, desde la planeación de la misma, desde  la selección de la actividad, desde la consulta de fuentes de información, etc.
+* Crear un clima para la libre expresión del estudiante, sin coaccionar y sin temor a equivocarse.
+* Proporcionar las condiciones para que el estudiante sea participe del proceso de enseñanza-aprendizaje, desde la planeación de la misma, desde  la selección de la actividad, desde la consulta de fuentes de información, etc.
 
 Dada la relevancia de la función del docente, se define que un profesor constructivista debe reunir las siguientes características: 
 
