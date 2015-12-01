@@ -294,7 +294,6 @@ Agrupa las habilidades necesarias para entender conceptos relacionados con las T
 **
 * Dominar aplicaciones de uso más extendido
 
-</div>
 
 Para el desarrollo de este proyecto este está concentrado en satisfacer las  siguientes habilidades:
 
