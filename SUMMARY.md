@@ -1,6 +1,6 @@
 # Summary
 
-* [Preliminar](preliminasr.md)
+* [Preliminar](preliminar.md)
 * [Prólogo](prologo.md)
 * [Introducción](README.md)
 * [Antecedentes](part1/readmemd.md)
