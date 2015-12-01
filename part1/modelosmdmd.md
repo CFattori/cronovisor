@@ -276,7 +276,10 @@ Agrupa las habilidades relacionadas a la formación ética de los estudiantes: s
 
 
 
-===Tecnología===
+
+### Tecnología
+
+
 
 Agrupa las habilidades necesarias para entender conceptos relacionados con las TIC, saber resolver problemas técnicos simples y utilizar las aplicaciones de uso más extendido, como el procesador de texto, planillas de cálculo, editor de presentaciones, entre otros.
 
