@@ -50,14 +50,15 @@ El constructivismo pedagógico nace bajo las ''teorías del conocimiento constru
 
 De esta manera observamos que para el movimiento constructivista tanto el aprendizaje como el conocimiento se basa en la interacción con el medio, ya sean personas y situaciones.
 
-''"Cuanto más rica sea la experiencia humana tanto mayor será el material del que dispone"'' Vygostki, L. S (1982)
+''"*Cuanto más rica sea la experiencia humana tanto mayor será el material del que dispone*"'' Vygostki, L. S (1982)
+
 A la vez que estas se construye internamente dentro del sujeto que interactúa. 
 
-"''el saber es construido por el organismo viviente para ordenar lo más posible el flujo de la experiencia en hechos repetibles y en relaciones relativamente seguras''"Von Glaserfeld (1990) 
+"*el saber es construido por el organismo viviente para ordenar lo más posible el flujo de la experiencia en hechos repetibles y en relaciones relativamente seguras*"Von Glaserfeld (1990) 
 
 De esta manera y en base a los teóricos anteriores el constructivismo pedagógico ha sido definido por Frida Díaz-Barriga (2004), de la siguiente manera:
  
-''"El constructivismo es una confluencia de diversos enfoques psicológicos que enfatizan la existencia y prevalencia en los sujetos cognoscentes de procesos activos en la construcción del conocimiento, los cuales permiten explicar la génesis del comportamiento y el aprendizaje. Se afirma que el conocimiento no se recibe pasivamente ni es copia fiel del medio"''. 
+"*El constructivismo es una confluencia de diversos enfoques psicológicos que enfatizan la existencia y prevalencia en los sujetos cognoscentes de procesos activos en la construcción del conocimiento, los cuales permiten explicar la génesis del comportamiento y el aprendizaje. Se afirma que el conocimiento no se recibe pasivamente ni es copia fiel del medio*". 
  
 Así como Mario Carretero (1997) argumenta lo siguiente: 
 
