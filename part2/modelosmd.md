@@ -316,16 +316,22 @@ Comprender el impacto social de las TIC
 
 Agrupa las habilidades necesarias para entender conceptos relacionados con las TIC, saber resolver problemas técnicos simples y utilizar las aplicaciones de uso más extendido, como el procesador de texto, planillas de cálculo, editor de presentaciones, entre otros.
 
-Conocimientos TIC
-
+**Conocimientos TIC
+**
+* 
 Dominar conceptos TIC básicos
-Saber operar las TIC
 
+**Saber operar las TIC
+**
+* 
 Cuidar y realizar un uso seguro del equipamiento
 Resolver problemas técnicos
-Saber usar las TIC
 
+**Saber usar las TIC
+**
+* 
 Dominar aplicaciones de uso más extendido
+
 Para el desarrollo de este proyecto este está concentrado en satisfacer las siguientes habilidades:
 
 
