@@ -66,12 +66,17 @@ Así como Mario Carretero (1997) argumenta lo siguiente:
 
 Según Antonio Ramírez ,  las características esenciales de la acción constructivista son básicamente cuatro:
 
-#Se apoya en la estructura conceptual de cada estudiante, parte de las ideas y preconceptos  que el estudiante tiene sobre el tema de clase.
-#Anticipa el cambio conceptual que se espera de la construcción activa del nuevo concepto y su repercusión en la estructura mental.
-#Confronta las ideas y preconceptos afines del tema de enseñanza con el nuevo concepto científico que enseña.
-#Aplica el nuevo concepto a situaciones concretas y lo relaciona con otros conceptos de la estructura cognitiva con el fin de ampliar su transferencia
+* 
+Se apoya en la estructura conceptual de cada estudiante, parte de las ideas y preconceptos  que el estudiante tiene sobre el tema de clase.
+* 
+Anticipa el cambio conceptual que se espera de la construcción activa del nuevo concepto y su repercusión en la estructura mental.
+* 
+Confronta las ideas y preconceptos afines del tema de * 
+enseñanza con el nuevo concepto científico que enseña.
+* 
+Aplica el nuevo concepto a situaciones concretas y lo relaciona con otros conceptos de la estructura cognitiva con el fin de ampliar su transferencia
  
-También se destaca, según Ramírez Toledo <ref>'''Toledo, A. R.''' El Constructivismo Pedagógico. Lic., en Pedagogía. Universidad Veracruzana. Catedrático del Colegio de Altos Estudios de Acagucan, Ven. Visitado en http://ww2.educarchile.cl/UserFiles/P0001/File/El%20Constructivismo%20Pedag%C3%B3gico.pdf</ref>, que algunas de las condiciones necesarias para potencializar la enseñanza constructivista son:
+También se destaca, según Ramírez Toledo, que algunas de las condiciones necesarias para potencializar la enseñanza constructivista son:
 
 * Crear un clima para la libre expresión del estudiante, sin coaccionar y sin temor a equivocarse.
 * Proporcionar las condiciones para que el estudiante sea participe del proceso de enseñanza-aprendizaje, desde la planeación de la misma, desde  la selección de la actividad, desde la consulta de fuentes de información, etc.
