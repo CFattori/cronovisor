@@ -5,14 +5,10 @@ Al ser esta plataforma virtual una herramienta con fin educativo debe sustentars
 
 ## Constructivismo como modelo
 
-
-
 Las características de esta plataforma virtual; interactividad, búsqueda de contenido y la creación de presentaciones, ponen al estudiante como creador de su propia experiencia de aprendizaje y por lo tanto de su conocimiento, y al rol del profesor no sólo como un expositor de conocimiento sino como guía, como apoyo, como mediador del conocimiento y el aprendizaje del estudiante. Estas características de enseñanza coinciden con los objetivos pedagógicos del modelo constructivista. 
 
 
 ### El constructivismo pedagógico
-
-
 
 El constructivismo pedagógico nace bajo las ''teorías del conocimiento constructivista'' de mediados del s.XX, en el cual destacan como figuras clave cuatro pensadores cuyos trabajos se enmarcan en distintas corrientes del ''constructivismo'', cuyos principios destacados por Castillo, S. (2008)son: 
 
