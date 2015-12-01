@@ -154,13 +154,13 @@ Ahora, yo sé que hay colegas que utilizan los celulares como calculadoras, y ot
 
 *-Por ejemplo, google maps para ver todo lo que son coordenadas geográfica, pero una aplicación especial no. Pero en internet se de software para hacer cómics, ayuda internet, pero para descargar a celulares no lo sé.*
 
-**¿si hubiera alguna permitiría usarla en los celulares?
+**¿si hubiera alguna permitiría usarla en los celulares?**
 
-*-¡Claro! Si nosotros estamos peliando constantemente con los celulares tenemos claro que son parte de la vida de los jóvenes, por lo tanto si nosotros tendríamos una app. que los alumnos podrían descargarla para hacer mas interactiva la clase de historia, se agradecería.
+*-¡Claro! Si nosotros estamos peliando constantemente con los celulares tenemos claro que son parte de la vida de los jóvenes, por lo tanto si nosotros tendríamos una app. que los alumnos podrían descargarla para hacer mas interactiva la clase de historia, se agradecería.*
 
-En cuanto al programa Enlaces ¿ Cómo es la capacitación que les entregan?
+**En cuanto al programa Enlaces ¿ Cómo es la capacitación que les entregan?**
 
--En este establecimiento no lo sé. Cuando yo llegué el programa ya estaba. Sin embargo tengo la experiencia de otros establecimientos, en los cuales el programa enlaces facilita computadores, segundo, te da cursos de perfeccionamiento, y constantemente te están monitoriando el trabajo que te dan con los computadores.
+*-En este establecimiento no lo sé. Cuando yo llegué el programa ya estaba. Sin embargo tengo la experiencia de otros establecimientos, en los cuales el programa enlaces facilita computadores, segundo, te da cursos de perfeccionamiento, y constantemente te están monitoriando el trabajo que te dan con los computadores.*
 
 ¿Cree que los alumnos de 7º básico están preparados para utilizar tablets y celulares en la asignatura?
 
