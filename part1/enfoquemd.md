@@ -107,56 +107,56 @@ Entrevista a Profesor Jefe de Historia
 * **Asignatura**:Historia y Ciencias Sociales
 * **Establecimiento**:Colegio Nuestra señora de Pompeya
 
-1. **¿curso a los que imparte historia?**
+**¿curso a los que imparte historia?**
 
 *-7º básico, 8º básico, 1º medio y 3º medio diferenciado.*
 
-2. **¿está familiarizado con las propuestas de la reforma educacional del gobierno para estos cursos?**
+**¿está familiarizado con las propuestas de la reforma educacional del gobierno para estos cursos?**
 
 
 *-Para estos cursos, claro. Todos los años se van mostrando nuevos programas y uno debe ir adaptándolos según lo que necesite el establecimiento. Si el establecimiento dice que se deben adoptar nuevos programas se van desarrollando. Con respecto a las reforma educacional obviamente habrían elementos que son interesantes y que se podrían analizar largamente, pero que hay que debatir.*
 
-2. ¿qué opina acerca de la implementación de la tecnología digital como las tablets en los curso de 5º básico y parvularios?¿Piensa que pueden ser útiles a sus alumnos también?
+**¿qué opina acerca de la implementación de la tecnología digital como las tablets en los curso de 5º básico y parvularios?¿Piensa que pueden ser útiles a sus alumnos también?**
 
 -Es que son útiles. Por lo menos a lo que corresponde a Historia la posibilidad de hacer investigación relacionadas al tema, la construcción de mapas conceptuales, mapas semánticos, powerpoints, la búsqueda de información en internet. Puede ser muy relevante, ya? Ahora, el hecho que se formule una reforma para la utilización de tablets y equipos computacionales a muy temprana edad permite formar a las personas en cuanto a eso. Cuando lleguen a la edad de 7 años, 8 años, más que nada le hacen un mal uso, ya? la mayor parte es más para juego, en cambio, si empezamos a utilizar las tecnologías de la información a temprana edad de manera educativa, los chicos ya no tienen solamente el juego como forma de ver las tecnologías sino también como educación. Y por l menos por ahí a mi me parece positivo.
 
-¿Actualmente utiliza estas tecnologías en su asignatura?
+**¿Actualmente utiliza estas tecnologías en su asignatura?**
 
--Sí. El establecimiento posee un convenio con el programa Enlaces, el cual nos pide evidencias en cuanto a lo que nosotros podemos realizar. Ahora esto está principalmente enfocado a la creación de powerpoints de mi parte, búsqueda de información, y análisis de gráficos que aparezcan en internet. Esto es lo que regularmente ocupo, esto por el relativo corto tiempo que disponemos para hacer las clases. Mayor actividad el tiempo nos impide eso. Pero por lo menos trabajamos en esa parte.
+*-Sí. El establecimiento posee un convenio con el programa Enlaces, el cual nos pide evidencias en cuanto a lo que nosotros podemos realizar. Ahora esto está principalmente enfocado a la creación de powerpoints de mi parte, búsqueda de información, y análisis de gráficos que aparezcan en internet. Esto es lo que regularmente ocupo, esto por el relativo corto tiempo que disponemos para hacer las clases. Mayor actividad el tiempo nos impide eso. Pero por lo menos trabajamos en esa parte.*
 
-El tiempo es limitado porque nosotros tenemos que cumplir un programa, una clase o dos clases que tu dediques para hacer otra cosa es tiempo que no puedes cumplir con el programa completamente. Ahora lamentablemente por problemas de tiempo no podemos desarrollar de mejor manera con las tecnologías dentro del aula.
+*El tiempo es limitado porque nosotros tenemos que cumplir un programa, una clase o dos clases que tu dediques para hacer otra cosa es tiempo que no puedes cumplir con el programa completamente. Ahora lamentablemente por problemas de tiempo no podemos desarrollar de mejor manera con las tecnologías dentro del aula.*
 
-¿El uso de estas tecnologías es tratado como una actividad aparte o es complementario a los textos escolares?
+**¿El uso de estas tecnologías es tratado como una actividad aparte o es complementario a los textos escolares?**
 
--Es complementario. Hay temas que podemos tratar con los libros escolares, pero la búsqueda en internet nos permite profundizar. En los textos no aparece todo. Imagínate un libro en que aparece todo tendríamos un libro de 500 o 600 páginas, que con el tamaño que ahora tienen es ya reducido y los chicos tiene problemas con el peso, imagínate con un libro que sea más grande. Entonces internet sirve como complemento del texto escolar.
+*-Es complementario. Hay temas que podemos tratar con los libros escolares, pero la búsqueda en internet nos permite profundizar. En los textos no aparece todo. Imagínate un libro en que aparece todo tendríamos un libro de 500 o 600 páginas, que con el tamaño que ahora tienen es ya reducido y los chicos tiene problemas con el peso, imagínate con un libro que sea más grande. Entonces internet sirve como complemento del texto escolar.*
 
-¿Qué elementos tecnológicos utiliza durante las clases?
+**¿Qué elementos tecnológicos utiliza durante las clases?**
 
--Computadores.
+*-Computadores.*
 
-¿Alguna sala especializada?
+**¿Alguna sala especializada?**
 
--Claro, tenemos una sala especial, la sala de computación a la cual vamos a trabajar allá, donde tenemos internet, los computadores son bastante rápidos, todo tienen microsoft office, powerpoint, excel, que nos permiten desarrollar nuestro trabajo de mejor manera.
-
-
-¿Y en la sala de clases?
-
--No hay, solo el data, luego tenemos que pedir un computador para hacer una proyección.
+*-Claro, tenemos una sala especial, la sala de computación a la cual vamos a trabajar allá, donde tenemos internet, los computadores son bastante rápidos, todo tienen microsoft office, powerpoint, excel, que nos permiten desarrollar nuestro trabajo de mejor manera.*
 
 
-¿Le gustaría que los alumnos complementen las clases con el uso de celulares o tableta?
+**¿Y en la sala de clases?**
 
--Bueno, en algunas ocasiones permito que utilicen el celular en caso de que hayan olvidado el libro, o no tengan el libro de clases para que lo descarguen de internet y puedan trabajar.
+*-No hay, solo el data, luego tenemos que pedir un computador para hacer una proyección.*
 
-Ahora, yo sé que hay colegas que utilizan los celulares como calculadoras, y otros para el internet, pero son pocos porque, como te dije, el mal uso que le dan los jóvenes a estos aparatos impiden un buen desarrollo de la clase. el estar constantemente chateando, en Facebook, cuando perfectamente podrían estar trabajando.
 
-¿conoce alguna aplicación actual que podría complementar con la asignatura?
+**¿Le gustaría que los alumnos complementen las clases con el uso de celulares o tableta?**
 
--Por ejemplo, google maps para ver todo lo que son coordenadas geográfica, pero una aplicación especial no. Pero en internet se de software para hacer cómics, ayuda internet, pero para descargar a celulares no lo sé.
+*-Bueno, en algunas ocasiones permito que utilicen el celular en caso de que hayan olvidado el libro, o no tengan el libro de clases para que lo descarguen de internet y puedan trabajar.
 
-¿si hubiera alguna permitiría usarla en los celulares?
+Ahora, yo sé que hay colegas que utilizan los celulares como calculadoras, y otros para el internet, pero son pocos porque, como te dije, el mal uso que le dan los jóvenes a estos aparatos impiden un buen desarrollo de la clase. el estar constantemente chateando, en Facebook, cuando perfectamente podrían estar trabajando.*
 
--¡Claro! Si nosotros estamos peliando constantemente con los celulares tenemos claro que son parte de la vida de los jóvenes, por lo tanto si nosotros tendríamos una app. que los alumnos podrían descargarla para hacer mas interactiva la clase de historia, se agradecería.
+**¿conoce alguna aplicación actual que podría complementar con la asignatura?**
+
+*-Por ejemplo, google maps para ver todo lo que son coordenadas geográfica, pero una aplicación especial no. Pero en internet se de software para hacer cómics, ayuda internet, pero para descargar a celulares no lo sé.*
+
+**¿si hubiera alguna permitiría usarla en los celulares?
+
+*-¡Claro! Si nosotros estamos peliando constantemente con los celulares tenemos claro que son parte de la vida de los jóvenes, por lo tanto si nosotros tendríamos una app. que los alumnos podrían descargarla para hacer mas interactiva la clase de historia, se agradecería.
 
 En cuanto al programa Enlaces ¿ Cómo es la capacitación que les entregan?
 
