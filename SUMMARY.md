@@ -1,8 +1,8 @@
 # Summary
 
-* [Preliminar](README0.md)
+* [Preliminar](README.md)
 * [Prólogo](prologo.md)
-* [Introducción](README.md)
+* [Introducción](intro.md)
 * [Antecedentes](part1/readmemd.md)
    * [Gráficas Cronológicas](part1/graficasmd.md)
    * [Impacto de las TIC en la Educación en Chile](part1/impactoticmd.md)
