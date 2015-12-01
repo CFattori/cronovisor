@@ -32,7 +32,7 @@ El constructivismo pedagógico nace bajo las ''teorías del conocimiento constru
 
 * Cuando es provisto por las situaciones apropiadas, uno debe tomar en consideración que el aprendizaje debiera tomar lugar en contextos significativos; preferiblemente donde el conocimiento va a ser aplicado
 
-'''Humberto Maturana''' (Constructivismo Radical):
+**Humberto Maturana** (Constructivismo Radical):
 
 * Auto-organización: Los seres vivos recogen la información para auto-organizarce internamente
 
@@ -42,7 +42,7 @@ El constructivismo pedagógico nace bajo las ''teorías del conocimiento constru
 
 * Experiencia vital humana: La experiencia es el mecanismo del conocimiento
 
-'''Ernst von Glasersfeld''' (Constructivismo Radical):
+**Ernst von Glasersfeld** (Constructivismo Radical):
 
 * La realidad es percibida a partir de su construcción por el sujeto perceptor. Este principio obliga a una reformulación de todas las bases tradicionales del conocimiento por afectar su raíz. No es una teoría más, sino un punto de partida radical.
 
