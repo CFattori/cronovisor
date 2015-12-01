@@ -1,9 +1,3 @@
-# Cronovisor
-
-#### Proyecto de Titulación de 	Christopher Fattori
-e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica de Valparaíso
-
-
 ## Introducción
 
 Los dispositivos digitales se han integrado en la vida diaria de las personas, cada vez a más temprana edad, como un elemento fundamental para el desarrollo de distintas habilidades y capacidades, permitiéndoles a los usuarios realizar diversas actividades como generar contenido, expresarse y compartir información.
