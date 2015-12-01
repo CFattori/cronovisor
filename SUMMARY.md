@@ -17,4 +17,5 @@
    * [logotipo](part3/logotipomd.md)
    * [Iconos](part3/iconosmd.md)
    * [Diseño de Interfaz](part3/interfazmd.md)
+* [Colofón](colofon.md)
 
