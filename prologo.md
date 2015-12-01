@@ -1,2 +1,13 @@
-# Prólogo
+## Tiempo y Espacio en Simultaneidad Gráfica
 
+Este proyecto se origina a partir del interés especial de Christopher por adentrarse en el estudio de la infografía y la visualización de información, específicamente en el ámbito de las cronologías gráficas. Su interés se centra en las líneas de tiempo que, junto a los mapas, constituyen las formas más claras y convencionales de ubicar al lector, de sumirlo en un espacio y un tiempo con orientación y contexto. Es a partir de los mapas y de las líneas de tiempo que acompañamos el estudio de la historia, es la forma de comprender los paralelismos y las complejidades de los periodos, los sucesos simultáneos y sus influencias en las épocas; es nuestra forma de dimensionar las eras o comprender las expansiones de los imperios. 
+
+Este principio gráfico es la materia que Christopher la orienta hacia el desarrollo de una plataforma para apoyar el estudio de historia entre los niños de enseñanza básica, entre 5º y 8º. En una época donde el esfuerzo asociado a recabar la información necesaria para construir una presentación o hacer una tarea es casi cero, y donde es más fácil copiar y pegar que hilvanar y redactar un texto propio, Christopher propone una forma nueva de construir presentaciones, que él llama *cronovisiones*, o visiones del tiempo.
+
+Este servicio asume como dado que existe wikipedia, con información altamente estructurada semánticamente. En este contexto, ¿qué puede aportar un niño que estudia una tarea? o mejor dicho ¿qué clase de preguntas debe formular un profesor que busca en sus alumnos la capacidad de indagar y relacionar creativamente los hechos y personajes históricos? Obviamente se trata de preguntas que van más allá de los porfiados hechos, preguntas que no se pueden responder escribiéndolas en Google, al menos, no por ahora.
+
+La apuesta apunta a construir las relaciones entre distintos sucesos o personajes: ellos son “lo dado” por Wikipedia. El trabajo de indagación que debe realizar el alumno apunta a establecer conexiones entre estos elementos, identificar aspectos que permitan relacionar una cosa con otra, articulando un discurso y estableciendo un sentido. Por ejemplo: en el contexto de la revolución francesa, ¿qué factores impidieron que cayera la monarquía inglesa? es decir ¿por qué no qué no hubo  revolución en Inglaterra? ó ¿y por qué no ocurrió lo mismo en España? 
+
+Cronovisor está diseñado para que un alumno pueda explorar y navegar por esos contenidos de forma semántica;  espacial, temporal o por tema; que pueda tomar elementos (hechos o personajes) y articularlos en una cronovisión donde él mismo decida cómo reconstruir, ahora en sus propias palabras, este recorrido por la historia. Dar cuenta a otro es darse cuenta, es aprender. 
+
+**Herbert Spencer**
