@@ -98,11 +98,9 @@ Respeta a sus alumnos, sus opiniones aunque no las comparta.
 * 
 Establece una buena relación interpersonal con los alumnos basada en valores que intenta enseñar: el respeto, la tolerancia, la empatía, la convivencia, etc.
  
-* 
-Evita apoderarse de las palabras y convertirse en un simple transmisor de influencias, es decir no caer en la enseñanza verbalista o unidireccional.
- 
-En cuanto al papel que cumple el alumno, se debe lograr que este sea participativo y activo, debido a que la experiencia de aprendizaje, define Ramirez Toledo, es una construcción por interacción, entre el alumno y los estímulos externos.
+* Evita apoderarse de las palabras y convertirse en un simple transmisor de influencias, es decir no caer en la enseñanza verbalista o unidireccional.
 
+En cuanto al papel que cumple el alumno, se debe lograr que este sea participativo y activo, debido a que la experiencia de aprendizaje, define Ramirez Toledo, es una construcción por interacción, entre el alumno y los estímulos externos.
 
 Así también señala que el objetivo del constructivismo es tratar “de motivar y enseñar al estudiante a pensar y actuar a través de contenidos significativos y contextualizados. En este proceso, el estudiante es el responsable de su proceso de aprendizaje”.
 
