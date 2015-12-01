@@ -49,40 +49,60 @@ El constructivismo pedagógico nace bajo las teorías del conocimiento construct
 
 De esta manera observamos que para el movimiento constructivista tanto el aprendizaje como el conocimiento se basa en la interacción con el medio, ya sean personas y situaciones.
 
-"Cuanto más rica sea la experiencia humana tanto mayor será el material del que dispone" Vygostki, L. S (1982)[2]
+"*Cuanto más rica sea la experiencia humana tanto mayor será el material del que dispone*" Vygostki, L. S (1982)[2]
 
 A la vez que estas se construye internamente dentro del sujeto que interactúa.
 
-"el saber es construido por el organismo viviente para ordenar lo más posible el flujo de la experiencia en hechos repetibles y en relaciones relativamente seguras"Von Glaserfeld (1990).[3]
+"*el saber es construido por el organismo viviente para ordenar lo más posible el flujo de la experiencia en hechos repetibles y en relaciones relativamente seguras*"Von Glaserfeld (1990).[3]
 
 De esta manera y en base a los teóricos anteriores el constructivismo pedagógico ha sido definido por Frida Díaz-Barriga (2004), de la siguiente manera:
 
-"El constructivismo es una confluencia de diversos enfoques psicológicos que enfatizan la existencia y prevalencia en los sujetos cognoscentes de procesos activos en la construcción del conocimiento, los cuales permiten explicar la génesis del comportamiento y el aprendizaje. Se afirma que el conocimiento no se recibe pasivamente ni es copia fiel del medio".
+"*El constructivismo es una confluencia de diversos enfoques psicológicos que enfatizan la existencia y prevalencia en los sujetos cognoscentes de procesos activos en la construcción del conocimiento, los cuales permiten explicar la génesis del comportamiento y el aprendizaje. Se afirma que el conocimiento no se recibe pasivamente ni es copia fiel del medio*".
 
 Así como Mario Carretero (1997) argumenta lo siguiente:
 
-"Básicamente puede decirse que es la idea que mantiene que el individuo, tanto en los aspectos cognitivos y sociales del comportamiento como en los afectivos, no es un mero producto del ambiente ni un simple resultado de sus disposiciones internas, sino una construcción propia que se va produciendo día con día como resultado de la interacción entre esos dos factores. En consecuencia, según la posesión del constructivismo, el conocimiento no es una copia fiel de la realidad, sino una construcción del ser humano. ¿Con qué instrumentos realiza la persona dicha construcción?, fundamentalmente con los esquemas que ya posee, es decir, con la que ya construyó en su relación con el medio que lo rodea".
+"*Básicamente puede decirse que es la idea que mantiene que el individuo, tanto en los aspectos cognitivos y sociales del comportamiento como en los afectivos, no es un mero producto del ambiente ni un simple resultado de sus disposiciones internas, sino una construcción propia que se va produciendo día con día como resultado de la interacción entre esos dos factores. En consecuencia, según la posesión del constructivismo, el conocimiento no es una copia fiel de la realidad, sino una construcción del ser humano. ¿Con qué instrumentos realiza la persona dicha construcción?, fundamentalmente con los esquemas que ya posee, es decir, con la que ya construyó en su relación con el medio que lo rodea*".
 
 Según Antonio Ramírez , las características esenciales de la acción constructivista son básicamente cuatro:
 
+1. 
 Se apoya en la estructura conceptual de cada estudiante, parte de las ideas y preconceptos que el estudiante tiene sobre el tema de clase.
+1. 
 Anticipa el cambio conceptual que se espera de la construcción activa del nuevo concepto y su repercusión en la estructura mental.
+1. 
 Confronta las ideas y preconceptos afines del tema de enseñanza con el nuevo concepto científico que enseña.
+1. 
 Aplica el nuevo concepto a situaciones concretas y lo relaciona con otros conceptos de la estructura cognitiva con el fin de ampliar su transferencia
+
 También se destaca, según Ramírez Toledo [4], que algunas de las condiciones necesarias para potencializar la enseñanza constructivista son:
 
-Crear un clima para la libre expresión del estudiante, sin coaccionar y sin temor a equivocarse.
-Proporcionar las condiciones para que el estudiante sea participe del proceso de enseñanza-aprendizaje, desde la planeación de la misma, desde la selección de la actividad, desde la consulta de fuentes de información, etc.
+* Crear un clima para la libre expresión del estudiante, sin coaccionar y sin temor a equivocarse.
+
+* Proporcionar las condiciones para que el estudiante sea participe del proceso de enseñanza-aprendizaje, desde la planeación de la misma, desde la selección de la actividad, desde la consulta de fuentes de información, etc.
+
 Dada la relevancia de la función del docente, se define que un profesor constructivista debe reunir las siguientes características:
 
-Es un mediador entre el conocimiento y el aprendizaje del alumno.
-Es un profesional reflexivo que piensa críticamente en su práctica, toma decisiones y soluciona problemas pertinentes al contexto de sus clases.
+* Es un mediador entre el conocimiento y el aprendizaje del alumno.
+
+
+* Es un profesional reflexivo que piensa críticamente en su práctica, toma decisiones y soluciona problemas pertinentes al contexto de sus clases.
+
+* 
 Promueve el aprendizaje significativo, que tenga sentido y que sea funcional para los alumnos.
+* 
 Preste ayuda pedagógica ajustada a la diversidad de necesidades o intereses y situaciones en que se involucran los alumnos.
+
+* 
 Respeta a sus alumnos, sus opiniones aunque no las comparta.
+
+* 
 Establece una buena relación interpersonal con los alumnos basada en valores que intenta enseñar: el respeto, la tolerancia, la empatía, la convivencia, etc.
+ 
+* 
 Evita apoderarse de las palabras y convertirse en un simple transmisor de influencias, es decir no caer en la enseñanza verbalista o unidireccional.
+ 
 En cuanto al papel que cumple el alumno, se debe lograr que este sea participativo y activo, debido a que la experiencia de aprendizaje, define Ramirez Toledo, es una construcción por interacción, entre el alumno y los estímulos externos.
+
 
 Así también señala que el objetivo del constructivismo es tratar “de motivar y enseñar al estudiante a pensar y actuar a través de contenidos significativos y contextualizados. En este proceso, el estudiante es el responsable de su proceso de aprendizaje”.
 
