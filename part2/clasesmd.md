@@ -59,7 +59,7 @@ Una de las carteristas de los hechos es su ubicación cronológica en el devenir
 Con el propósito de facilitar la organización y búsqueda de información, me he basado en la organización historeográfica organizando la información de la siguiente manera:
 
 * Historia por edades:
-1. Edad Antigua
+** Edad Antigua
 2. Edad Contemporánea
 3. Edad Media
 4. Edad Moderna
