@@ -10,3 +10,8 @@ Cuando conectan diferentes procesos:
 
 En base a un **caso de uso** se presentan la siguiente manera de visualizar los contenidos, proponiendo una nueva manera de interfaz facilitando el trabajo para los alumnos.
 
+
+**Búsqueda y Selección de Hechos**
+
+**Crear y Editar Cronovisiones**
+
