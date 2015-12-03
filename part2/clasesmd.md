@@ -94,3 +94,26 @@ Así como segementar la búsqueda con la selección temporal centrada sólo en l
  * Siglos en Europa
  * Siglos en Oceanía
 
+#### Lugar
+
+Otra característica de los hechos y que es importante para alcanzar los objetivos de la plataforma es su característica espacial, es decir, el lugar en que estos hechos han ocurrido, contando las siguientes características:
+
+**nación, país, estado, reino, imperio, continente**.
+
+Estas características cuentan con unas propias pues país, estado y continente, permiten la ubicación geográfica, más, nación, reino, imperio, está enfocado a que los alumnos tengan en cuenta lo espacial, dibujando ellos las extensiones territoriales de estas.
+
+Esto permite ver la sucesión de hechos cronológicos alrededor del globo, viendo que los acontecimientos se suceden en distintas partes del mundo.
+
+* Geografía
+ * África
+ * América
+ * Asia
+ * Europa
+ * Oceanía
+ 
+* Historia por continente:
+ * Historia de África
+ * Historia de América
+ * Historia de Europa
+ * Historia de Asia
+ * Historia de Oceanía
