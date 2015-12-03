@@ -64,6 +64,7 @@ Con el propósito de facilitar la organización y búsqueda de información, me 
  * Edad Media
  * Edad Moderna
 
+
 * Historia por Grandes Civilizaciones:
  * Griega
  * Egipcia
@@ -75,6 +76,7 @@ Con el propósito de facilitar la organización y búsqueda de información, me 
  * Mayas
  * Inca
  * Azteca
+
 
 * Historia por Grandes Eventos:
  * Colonialismo
@@ -110,9 +112,134 @@ Esto permite ver la sucesión de hechos cronológicos alrededor del globo, viend
  * Asia
  * Europa
  * Oceanía
+
+
 * Historia por continente:
  * Historia de África
  * Historia de América
  * Historia de Europa
  * Historia de Asia
  * Historia de Oceanía
+ 
+
+#### Tema
+
+Los hechos también se caracterizan por el tema del que tratan, esto para facilitar la búsqueda posterior de una presentación o hecho, también para identificar y contextualizar de qué se está tratando. Por ello es que los hechos se clasifican en los siguientes temas:
+
+##### Ciencia
+
+Cualquier hecho o personaje que involucre descubrimientos, teorías, inventos. Estos están clasificados en las siguientes áreas:
+
+* Ciencias naturales y formales
+ * Astronomía
+ * Biología
+ * Botánica
+ * Física
+ * Medicina
+ * Matemática
+ * Química
+
+
+* Ciencias humanas y sociales:
+ * Administración
+ * Antropología
+ * Comunicación
+ * Derecho
+ * Economía
+ * Educación
+ * Filosofía
+ * Geografía
+ * Historia
+ * Lingüística
+ * Psicología
+ * Sexualidad
+ * Sociología
+
+##### Tecnología
+
+Cualquier hecho o personaje que involucre descubrimientos, teorías, inventos. Estos están clasificados en las siguientes áreas:
+
+* Tecnologías:
+ * Agricultura
+ * Biotecnología
+ * Ciencias de la salud
+ * Exploración espacial
+ * Informática
+ * Ingeniería
+ * Telecomunicaciones
+ * Transporte
+
+
+* Medios de comunicación:
+ * Internet
+ * Prensa escrita
+ * Radio
+ * Televisión
+
+
+##### Cultura
+
+cualquier hecho o personaje que involucre artistas, obras artísticas, movimientos artísticos, eventos socioculturales, etc.
+
+* Artes:
+ * Arquitectura
+ * Artesanía
+ * Artes gráficas
+ * Cine
+ * Danza
+ * Deporte
+ * Escultura
+ * Espectáculos
+ * Fotografía
+ * Gastronomía
+ * Historieta
+ * Literatura
+ * Música
+ * Pintura
+ * Teatro
+ * Televisión
+
+
+##### Política
+
+Cualquier hecho o personaje que involucre guerras, revoluciones, reformas.
+
+* Política
+* Tratados
+* Guerras
+* Revoluciones
+* Reformas
+
+#####Religión
+
+Cualquier hecho o personaje que involucre concepciones religiosas o realizados por religiosos.
+
+* Religiones
+* Ordenes
+* Iglesias
+* Creencias
+
+###Personajes
+
+Los personajes corresponden a aquellas personas que debido a sus conocimientos y acciones, han influenciado en el devenir de la historia tanto regional como universal.
+
+Estos contienen primeramente las siguientes características:
+
+* Nombre
+* Nacimiento
+* Lugar Nacimiento
+* Fallecimiento
+* Lugar Fallecimiento
+* Causa de muerte
+* Nacionalidad
+* Ciudadanía
+* Ocupación
+* Relevancia
+
+Ademas de estar clasificadas a su vez por el tema que lo identifica dentro del ramo del conocimiento o aporte que han realizado:
+
+* **cultura**: artistas, filósofos.
+* **ciencia**: inventores, descubridores.
+* **religión**: sacerdotes, guías espirituales, teólogos.
+* **politica**: gobernantes, guerreros, cargos políticos y  militares.
+
