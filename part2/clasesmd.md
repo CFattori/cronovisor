@@ -59,38 +59,38 @@ Una de las carteristas de los hechos es su ubicación cronológica en el devenir
 Con el propósito de facilitar la organización y búsqueda de información, me he basado en la organización historeográfica organizando la información de la siguiente manera:
 
 * Historia por edades:
-** Edad Antigua
-2. Edad Contemporánea
-3. Edad Media
-4. Edad Moderna
+ * Edad Antigua
+ * Edad Contemporánea
+ * Edad Media
+ * Edad Moderna
 
-Historia por Grandes Civilizaciones:
-Griega
-Egipcia
-Romana
-Babilónica
-Persa
-China
-India
-Mayas
-Inca
-Azteca
+* Historia por Grandes Civilizaciones:
+ * Griega
+ * Egipcia
+ * Romana
+ * Babilónica
+ * Persa
+ * China
+ * India
+ * Mayas
+ * Inca
+ * Azteca
 
-Historia por Grandes Eventos:
-Colonialismo
-Imperialismo
-Revolución Industrial
-Revolución Francesa
-Revolución Rusa
-Primera Guerra Mundial
-Segunda Guerra Mundial
+* Historia por Grandes Eventos:
+ * Colonialismo
+ * Imperialismo
+ * Revolución Industrial
+ * Revolución Francesa
+ * Revolución Rusa
+ * Primera Guerra Mundial
+ * Segunda Guerra Mundial
 
 Así como segementar la búsqueda con la selección temporal centrada sólo en los continentes:
 
-Siglos por Continente:
-Siglos en África
-Siglos en América
-Siglos en Asia
-Siglos en Europa
-Siglos en Oceanía
+* Siglos por Continente:
+ * Siglos en África
+ * Siglos en América
+ * Siglos en Asia
+ * Siglos en Europa
+ * Siglos en Oceanía
 
