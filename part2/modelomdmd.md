@@ -22,7 +22,7 @@ La propuesta consiste en una plataforma digital que permite la búsqueda e indag
 
 Este modelo representa las funciones y operaciones en la que funciona esta plataforma.
 
-Se puede observar que lo primero que debe hacer el usuario es registrarse, seleccionar un tipo de usuario, para seguir adelante, ya sea buscar una presentación o crear una presentación, para ello es primordial ingresar datos. Una vez creado el hecho, se deben crear más para la posterior realización de una presentación, las cuales se suman formando un galería de estas. Estas presentaciones pueden ser evaluadas, comentadas, por otros usuarios, y supervisadas por el profesor.
+Se puede observar que lo primero que debe hacer el *usuario* es **registrarse**, seleccionar un tipo de usuario, para seguir adelante, ya sea **buscar** una presentación o **crear** una presentación, para ello es primordial **ingresar datos**. Una vez creado el *hecho*, se deben crear más para la posterior realización de una *presentación*, las cuales se suman formando una *galería* de estas. Estas presentaciones pueden ser evaluadas, comentadas, por otros usuarios, y supervisadas por el profesor.
 
 
 **Exploración**: Ingresa el dato que buscas y explorarás a través del tiempo y el mapa el resultado. Verás cuándo y dónde han sucedido los hechos, y lo que sucedía en ese momento en cualquier parte del mundo.
