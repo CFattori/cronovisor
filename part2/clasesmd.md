@@ -110,7 +110,6 @@ Esto permite ver la sucesión de hechos cronológicos alrededor del globo, viend
  * Asia
  * Europa
  * Oceanía
- 
 * Historia por continente:
  * Historia de África
  * Historia de América
