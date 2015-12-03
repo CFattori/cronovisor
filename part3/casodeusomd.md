@@ -5,16 +5,13 @@
 
 
 
-A partir de estos wireframes y mapa de navegación se proponen pruebas para mejorar las funcionalidades de la plataforma a través de la creación de casos de uso ficticios conocidos como **personas y escenarios**.
+A partir de estos wireframes y mapa de navegación se propone realizar una prueba para testear las funcionalidades de la plataforma a través de la creación de un caso de uso ficticio conocido como **personas y escenarios**.
 
-Para la realización de estos casos se pensaron en 3 usuarios en que la plataforma debe funcionar:
-
-* caso 1 alumno básico: El usuario es primerizo en el uso de la plataforma virtual. Requiere como principal guía el texto de estudio escolar como fuente primaria. El producto resultante es simple en su construcción, de fácil comprensión, y de reducidas relaciones entre un evento y otro.
-* caso 2 alumno avanzado: El usuario conoce bien el uso de la plataforma virtual. Utiliza la plataforma como fuente de contenido sabiendo utilizar bien el sistema de búsqueda. El producto resultante es complejo, de fácil comprensión y varios relaciones entre un evento y otro.
-* caso 3 profesor: El usuario debe generar grupos, administrarlos, ordenarlos y ver el progreso de la creación de estas presentaciones para evaluarlos.
+### Caso: Alumno Básico
 
 
-### caso 1: Alumno Básico
+* **Alumno básico**: El usuario es primerizo en el uso de la plataforma virtual. Requiere como principal guía el texto de estudio escolar como fuente primaria. El producto resultante es simple en su construcción, de fácil comprensión, y de reducidas relaciones entre un evento y otro.
+
 
 * **nombre**: Nicolás Contreras
 * **edad**:13
