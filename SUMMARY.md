@@ -17,6 +17,6 @@
    * [Caso de Uso](part3/casodeusomd.md)
    * [logotipo](part3/logotipomd.md)
    * [Iconos](part3/iconosmd.md)
-   * [Diseño de Interfaz](part3/interfazmd.md)
+   * [Interfaz](part3/interfazmd.md)
 * [Colofón](colofon.md)
 
