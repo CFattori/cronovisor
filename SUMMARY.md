@@ -9,6 +9,7 @@
    * [Enfoque en las Bases curriculares de Historia](part1/enfoquemd.md)
    * [Modelos Educativos](part1/modelosmdmd.md)
 * [Propuesta](part2/readmemd.md)
+   * [Modelo](part2/modelomd.md)
    * [Mapa de Clases](part2/clasesmd.md)
    * [Mapa de Navegación](part2/navegacionmd.md)
    * [Wireframes](part2/wireframesmd.md)
