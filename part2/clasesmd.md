@@ -60,16 +60,9 @@ Con el propósito de facilitar la organización y búsqueda de información, me 
 
 * Historia por edades:
 1. Edad Antigua
-1. Edad Contemporánea
-1. Edad Media
-1. Edad Moderna
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+2. Edad Contemporánea
+3. Edad Media
+4. Edad Moderna
 
 Historia por Grandes Civilizaciones:
 Griega
