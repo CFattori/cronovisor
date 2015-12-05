@@ -206,8 +206,6 @@ Tomando en cuenta de que vivimos en un mundo globalizado y que dado el desarroll
 
 De esta manera las **“Habilidades del Siglo XXI”**, consistente en el desarrollo de la creatividad e innovación, pensamiento crítico y colaboración, fueron consideradas por el programa Enlaces del Ministerio de Educación, el cual creó una matriz, la cual tiene como objetivo aplicar el uso de Tics para el desarrollo de estas habilidades, la cual denominó **“Las Habilidades TIC para el aprendizaje”**.
 
-![modelo habilidades s.XXI](cf_cronovisor3.jpg](modelo 1 .png)
-
 
 ## Habilidades Tic para le aprendizaje
 
