@@ -5,7 +5,9 @@ Memoria de Titulo del alumno Christopher Fattori Medina, estudiante de la e[ad] 
 
 La presente edición utiliza la tipografía Roboto en sus variables thin, light, light italic, regular, bold, semibold y black.
 
-Se imprimen 3 ejemplares en una impresora láser a color Xerox 7500. Para las páginas interiores se utilizó papel Bond de 90 gramos y para la portada se utiliza Opalina Lisa de 200 gramos. El empaste estuvo a cargo de 
+Para las páginas interiores se utilizó papel Bond de 90 gramos y para la portada se utiliza Opalina Lisa de 200 gramos.
+
+Se imprimen 3 ejemplares en una impresora láser a color Xerox 7500. El empaste estuvo a cargo de 
 
 
 
