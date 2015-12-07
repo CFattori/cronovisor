@@ -9,6 +9,6 @@ Se imprimen 3 ejemplares en una impresora láser a color Xerox 7500. Para las p
 
 **Christopher Fattori Medina**
 
-Profesores guías  :Herbert Spencer González
+Profesores guía:Herbert Spencer González
 
 Viña del Mar, Diciembre 2015
