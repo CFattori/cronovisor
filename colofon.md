@@ -7,6 +7,10 @@ La presente edición utiliza la tipografía Roboto en sus variables thin, light,
 
 Se imprimen 3 ejemplares en una impresora láser a color Xerox 7500. Para las páginas interiores se utilizó papel Bond de 90 gramos y para la portada se utiliza Opalina Lisa de 200 gramos. El empaste estuvo a cargo de 
 
+
+
+
+
 **Christopher Fattori Medina**
 
 Profesores guía:Herbert Spencer González
