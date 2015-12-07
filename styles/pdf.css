@@ -1,2 +1,6 @@
 /* CSS for pdf */
 
+@page{
+    size: A4;
+    margin: 2.5cm 2cm;
+}
