@@ -11,10 +11,9 @@ Se imprimen 3 ejemplares en una impresora láser a color Xerox 7500. El empaste
 
 
 
+<br/>
+<br/>**Christopher Fattori Medina**
 
+Profesores guía:  Herbert Spencer González
 
-**Christopher Fattori Medina**
-
-Profesores guía:Herbert Spencer González
-
-Viña del Mar, Diciembre 2015
+*Viña del Mar, Diciembre 2015*
