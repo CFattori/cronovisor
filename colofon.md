@@ -1,8 +1,9 @@
 # Colofón
 
 
-Memoria de Títulco dLl alumnoe Christopher Fattori Medina, estudiante de la e[ad] Escuela de Arquitectura y Diseño de la Pontificia Universidad Católica de Valparaíso, para la carrera de Diseño Gráfico..
-La presente edición posee un formato de 19x29 cm, editado con Adobe InDesign Para el texto se uso la tipografía Myriad Pro en sus versiones bold, semibold y light.
+Memoria de Titulo del alumno Christopher Fattori Medina, estudiante de la e[ad] Escuela de Arquitectura y Diseño de la Pontificia Universidad Católica de Valparaíso, para la carrera de Diseño Gráfico.
+
+La presente edicion a utilizáLa tipografída corresponde a Roboto en sus variables thin, light, light italic, regular, bold, semibold y black.
 
 Para su impresión se utilizó una impresora láser a color Xerox 7500. Para las páginas interiores se utilizó papel Bond de 90 gramos y para la portada se utiliza Opalina Hilada de 200 gramos.
 
