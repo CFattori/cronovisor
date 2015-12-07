@@ -9,5 +9,5 @@ Para su impresión se utilizó una impresora láser a color Xerox 7500. Para 
 
 **Christopher Fattori Medina**
 
-Profesores guías: Herbert Spencer Gonzáz
+Profesores guías:Herbert Spencer González
 leViña del Mar, Mayo, 2015
