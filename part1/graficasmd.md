@@ -25,6 +25,7 @@ Representaciones visuales de eventos alineadas en barras.
 
 ![aquí escribes los pie de imagenes](img/graficas/nombredeimagen.jpg)
 
+resumen del estudio de esta sección bla bla bla
 
 ### Tablas temporales
 
