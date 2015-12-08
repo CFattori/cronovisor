@@ -23,6 +23,8 @@ Como segunda etapa de investigación se realiza una observación de la realidad 
 
 Representaciones visuales de eventos alineadas en barras.
 
+![aquí escribes los pie de imagenes](img/graficas/nombredeimagen.jpg)
+
 
 ### Tablas temporales
 
