@@ -11,6 +11,10 @@ El propósito de este trabajo es el desarrollo de una plataforma virtual que sea
 Este estudio abarcará los contenidos de la asignatura de Historia y Ciencias Sociales de 7º Básico, proponiendo una herramienta complementaria que permita crear visualizaciones simples de los eventos tratados en la materia.
 
 
+
+---
+
+
 ## Propuesta de Proyecto
 
 La propuesta presentará recursos conocidos por los usuarios como lineas temporales y mapas, pero debe crear un nuevo modo de visualización y relaciones que finalmente genere una nueva forma de recorrer la historia, destacando su característica temporal y espacial.
