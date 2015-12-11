@@ -29,12 +29,13 @@ h1, h2, h3, h4, h5, h6{
 }
 
 h1{
+    color: #F60;
     font-weight: 900;
     text-transform: uppercase;
 }
 
 h2{
-    color: gray;
+    color: #F60;
 }
 
 h3,
