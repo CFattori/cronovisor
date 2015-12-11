@@ -1,7 +1,102 @@
-/* CSS for pdf */
+/* CSS for print */
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,700,300|Source+Sans+Pro:400,200,300,300italic,200italic,400italic,600,600italic,700,700italic,900,900italic);
 
 @page{
     size: A4;
-    margin: 2.5cm 2cm;
-    font-family: "Courier";
+    margin: 4cm 5cm;
+}
+
+.book{
+    background-color: #e4e3ca;
+    font-family: "Roboto Slab";
+}
+
+.page-inner,
+.book .book-body .page-wrapper .page-inner{
+    font-size: 1em;
+}
+
+p, li{
+    font-family: "Roboto Slab";
+    color: #555;
+    font-weight: 300;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Source Sans Pro";
+}
+
+h1{
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+h2{
+    color: gray;
+}
+
+h3,
+.book .book-body .page-wrapper .page-inner section.normal h3 {
+    color: #F60;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+h4{
+    color: gray;
+    text-transform: uppercase;
+}
+
+h1, h2, h3,
+.book .book-body .page-wrapper .page-inner section.normal h1,
+.book .book-body .page-wrapper .page-inner section.normal h2,
+.book .book-body .page-wrapper .page-inner section.normal h3{
+    font-size: 1.5em;
+}
+
+h4, h5, h6,
+.book .book-body .page-wrapper .page-inner section.normal h4,
+.book .book-body .page-wrapper .page-inner section.normal h5,
+.book .book-body .page-wrapper .page-inner section.normal h6{
+    font-size: 1.2em;
+}
+
+p,
+.book .book-body .page-wrapper .page-inner section.normal p{
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+blockquote p,
+.book .book-body .page-wrapper .page-inner section.normal blockquote p{
+    font-family: "Source Sans Pro";
+    font-weight: 600;
+    letter-spacing: -.051ex;
+}
+
+a, .glossary-term,
+.book .book-body .page-wrapper .page-inner section.normal a,
+.book .book-body .page-wrapper .page-inner section.normal .glossary-term {
+    color: #000000;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+li.active>a,
+.book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active>a {
+    color: #F60;
+    font-weight: 900
+}
+
+img,
+.book .book-body .page-wrapper .page-inner section.normal img {
+    border: 0;
+    max-width: 100%;
+    margin: 1em 0;
+    border-radius: 5px;
 }
