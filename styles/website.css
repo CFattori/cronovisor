@@ -1,7 +1,3 @@
-/* CSS for pdf */
+/* CSS for website */
 
-@page{
-    size: A4;
-    margin: 2.5cm 2cm;
-    font-family: "Courier";
-}
+@import url('print.css');
