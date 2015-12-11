@@ -9,7 +9,7 @@
 
 .book{
     background-color: #e4e3ca;
-    font-family: "Roboto Slab";
+    font-family: 'Roboto', sans-serif;
 }
 
 .page-inner,
@@ -18,14 +18,14 @@
 }
 
 p, li{
-    font-family: "Roboto Slab";
+    font-family: 'Roboto', sans-serif;
     color: #555;
     font-weight: 300;
 }
 
 
 h1, h2, h3, h4, h5, h6{
-    font-family: "Source Sans Pro";
+    font-family: 'Roboto', sans-serif;
 }
 
 h1{
@@ -74,7 +74,7 @@ p,
 
 blockquote p,
 .book .book-body .page-wrapper .page-inner section.normal blockquote p{
-    font-family: "Source Sans Pro";
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
     letter-spacing: -.051ex;
 }
