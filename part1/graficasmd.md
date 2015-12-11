@@ -64,6 +64,10 @@ Personajes como Emma Willard y Euguine Pick utilizaran la imagen como un complem
 
 A parte, las publicaciones de *La Hammond World Atlas Corp* (1999) e *Historical Correlation of the Earth *(2002) de Paul R. Janke.
 
+
+---
+
+
 ### Líneas de Tiempo Virtuales
 
 Uso de gráficas virtuales y el hipertexto para enlazar y representar el paso de eventos. 
