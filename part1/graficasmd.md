@@ -27,7 +27,7 @@ A partir del análisis de antecedentes históricos, se reconoce la necesidad de 
 
  Estas evolucionan desde una interacción analógica, donde la continuidad del papel representa la continuidad del tiempo (con un principio definido y un final por escribir), hasta la abstracción lógica a símbolos e iconos que, con la adición de color y textos que amplían la información y son mas sofisticados en contendido, menos intuitivos se vuelven.
  
- ![texto](img/graficas/lineas temporales1.jpg)
+ ![hkhh](../img/graficas/Lineas temporales1.jpg)
 
  ***Se observaron***: *Carte chronologique (1753) de Jacques Barbeu-Dubourg, Chart of Biography (1765) y Chart of History (1769) de Joseph Priestley, Chrono - Genealogical Chart of the Third Age of the World (1805)de Robert Wilkinson, y  An Historical Chart representing ... of the principal Empires of the World (1815) John Mellish.*
 
