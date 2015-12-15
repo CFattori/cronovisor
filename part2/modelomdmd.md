@@ -10,6 +10,8 @@ Las funciones y operaciones esta plataforma estan representadas en el modelo que
 
 **Cronovisiones**: Tras la construcción de relaciones en conjunto con los elementos (Hechos, Personajes) el usuario crea estas presentaciones denominadas “*Cronovisiones*”, en la cual muestra sus observaciones en base a la relación de eventos y personajes, fundamentando con textos e imágenes.
 
+<br>
+
 
 ## Objetivos
 
