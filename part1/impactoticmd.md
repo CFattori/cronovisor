@@ -69,7 +69,7 @@ El cambio progresivo desde conexión telefónica a banda ancha de estos establec
 Complementando estos datos de acceso se puede apreciar la relevancia de los computadores según los sectores socioeconómicos. Mientras en los sectores más acomodados los alumnos acceden a estas tecnologías en sus hogares los sectores socioeconómicos mas bajos acceden a estos en las escuelas. 
 
 <br>
-
+![](CF_grafica3.jpg)
 
 Se concluye que los programas de Enlaces cumplen con el objeto de reducir esta brecha de acceso, mas estos programas reducirán este rol mientras el poder adquisitivo de las familias acceda por cuentea propia a estas tecnologías, lo cual se aprecia en la gráfica siguiente. 
 
