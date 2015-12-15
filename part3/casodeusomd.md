@@ -74,6 +74,9 @@ A partir de la lectura del texto escolar se organizan los datos relevantes para 
  
  * **Relación**: Los plebeyos alcanzan la igualdad en derechos y atribuciones como los griegos al alcanzar la democracia.
 
-**Cuadro comparativo**
+
+### Cuadro comparativo
+
+
 
 Estos datos y relaciones se ven mejor organizados en este cuadro comparativo, en el cual se aprecian las fechas, cronológicamente organizadas por el proceso de república romana, las características de cada aspecto de este proceso y su relación y comparación con el proceso de democracia griega.
