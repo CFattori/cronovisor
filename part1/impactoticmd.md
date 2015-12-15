@@ -177,7 +177,14 @@ En cuanto a los resultados según Dependencia Administrativa se observa que:
 
 Se obtiene que los hombres obtienen 247 puntos y las mujeres 250 puntos, por lo que las mujeres logran un resultado levemente superior al haber un resultado porcentual mayor en el nivel intermedio superior al de los hombres, sin que la diferencia sea significativa. 
 
-Conclusión
+
+### Conclusión
+
+
 De este estudio se pueden obtener las siguientes conclusiones:
-• Impacto socioeconómico: Según los diversos estudios realizados por Enlaces en el 2009 que preveían la desigualdad por acceso a las Tic según nivel socioeconómico ahora se ven desarrollados en este Simce TIC 2011 en las cuales los alumnos de centros de estudio y en regiones con recursos más bajos poseen promedios con puntajes más bajos, lo que deriva en un nivel inicial en el promedio nacional, la mayoría de los estudiantes en chile interpretan información simple, son capaces de hacer un uso básico de las funcionalidades TIC.
-• Desafío: Se deben desarrollar más estrategias para integrar las TIC en los sectores on ni- veles socioeconómicos y con niveles de puntaje más bajos, incentivando a los estudiantes a utilizarlos de mejor manera y creando herramientas que sean de fácil acceso para estos sectores.
+
+* 
+**Impacto socioeconómic**o: Según los diversos estudios realizados por Enlaces en el 2009 que preveían la desigualdad por acceso a las Tic según nivel socioeconómico ahora se ven desarrollados en este Simce TIC 2011 en las cuales los alumnos de centros de estudio y en regiones con recursos más bajos poseen promedios con puntajes más bajos, lo que deriva en un nivel inicial en el promedio nacional, la mayoría de los estudiantes en chile interpretan información simple, son capaces de hacer un uso básico de las funcionalidades TIC.
+
+* 
+**Desafí**o: Se deben desarrollar más estrategias para integrar las TIC en los sectores on ni- veles socioeconómicos y con niveles de puntaje más bajos, incentivando a los estudiantes a utilizarlos de mejor manera y creando herramientas que sean de fácil acceso para estos sectores.
