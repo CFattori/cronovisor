@@ -1,18 +1,25 @@
 # Mapa de Navegación
 
 El mapa de navegación es un recurso grá co que permite mostrar la organización de los co- netnidos de la plataforma web en categorías, describe los tipos de categorías y sus contenidos, además de jerarquizar la lectura de estos contenidos.
+
 Cronovisor:
 Relata las características de la plataforma: Exploración, Organización y Presentación. Invita a la búsqueda que lleva al explorador, enlaza a un tutorial, muestra recursos (guías de aplicación) para que el profesor pueda usar la plataforma en clases y por último una sección de cronovisio- nes destacadas como buenos ejemplos para quienes recien conoscan la plataforma.
+
 Explorar:
 El usuario pude seleccionar ver los últimos hechos o personajes agregados a la plataforma, ver las Últmas cronovisones creadas y seleccionar cronovisones por Categorías. Las secciones Hechos Recientes y Personajes Recientes permiten al usuario comenzar y navergar en la pla- taforma, seleccionar ver por elemento hecho o personajes o verlos por los temas mencionados anteriormente.
+
 Crear:
 Aqui el usuario debe registrarse o iniciar sesión previamente, permite al usuario comenzar a guar- dar elementos creando una Cronovision receinte, para luego editarla añadiendo las relaciones, sean estas texto seleccionado, imagen seleccionada o vista de mapa y el order de lectura.
+
 Per l:
 Aqui el usuario se registra o inicia sesión, administra sus datos, revisa noti caciones , notas que le dió el profesor a su cronovisón, y ve los grupos a los que pertenece. Permite obtener la seccion Cronovisiones para editarlas.
+
 Cronovisones:
 Donde se guardan las cronovisiones recién creadas, permite su edición.
+
 Tutoriales:
 Textos y videos que enseñan como navegar, guardar hehos/personajes y crear/editar cronovi- siones.
+
 Noticias:
 Actualizaciones de la paltaforma, mejoras, etc.
 
