@@ -1,6 +1,6 @@
 # Mapa de Navegación
 
-El mapa de navegación es un recurso grá co que permite mostrar la organización de los co- netnidos de la plataforma web en categorías, describe los tipos de categorías y sus contenidos, además de jerarquizar la lectura de estos contenidos.
+El mapa de navegación es un recurso gráfico que permite mostrar la organización de los co- netnidos de la plataforma web en categorías, describe los tipos de categorías y sus contenidos, además de jerarquizar la lectura de estos contenidos.
 
 **Cronovisor:**
 
