@@ -193,3 +193,16 @@ Ahora, yo sé que hay colegas que utilizan los celulares como calculadoras, y ot
 **¿La internet del colegio no tiene control para bloquear el ingreso a esos sitios (facebook, twiter, etc)?**
 
 *-Primero, la internet de la sala de computación si. La internet de todo el colegio no, ya no la podemos utilizar porque lamentablemente había gente que se metía a facebook con la internet de acá. Así que ese sería un gran problema para una aplicación acá, tendría que ser una app. que descargue completo el programa pero eso sería más pesado. No sé como se podría realizar acá. Continuando, que tuviera imágenes, sea interactiva que les permitiera trabajar en el programa y que nos permitiera evaluar el trabajo al final.*
+
+
+### Conclusión
+
+
+De las bases curriculares y la entrevista del profesor se pueden obtener lo siguiente:
+
+* 
+**Bases curriculares**: Las bases que presenta el Mineduc para la asignatura de historia con- templan el espíritu educativo de las Tic, integrando su uso y tratando de aplicarlas en com- plemento con la asignatura como podemos ver en las habilidades que estas bases planean desarrollar en los alumnos. Estas bases son los objetivos que la plataforma digital que se propone desarrollar quiere cumplir.
+
+
+* 
+**Entrevista**: Las escuelas cuentan con los recursos necesarios para la aplicación del pro- yecto así como la voluntad de los profesores por aplicar mas Tic en sus aulas. Integrando los objetivos de las bases más los requerimientos que el profesor sugiere (interactividad, atractivo, evaluación y concentración) el desarrollo de softwares para uso educato no tienen ahora ningún impedimento para su realización pues a mas temprana edad los alumnos se familiarizan con la tecnología.
