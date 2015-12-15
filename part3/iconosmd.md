@@ -1,12 +1,19 @@
 # Iconos
 
-Se actualizan los iconos por una versión más amistosa para los estudiantes decidiendo utilizar un estilo más ilustrativo y simple como es el flat design procurando utilizar la paleta cromática definida anteriormente manteniendo el estilo gráfico en la plataforma.
+
+Se utilizan iconos coloridos y simples para que la plataforma posea una aspecto ameno, amigable, sea atractivo y de fácil lectura para el estudiante de enseñanza básica.
+
+Los iconos se distinguen de acuerdo a la función que cumplen en el sitio, sea este para identificar elementos de interacción como otros de función ilustrativa.
 
 
-## Elementos
+
+* **Categorías**
 
 
 
+* **Secciones**
 
-## Interacción
+
+* **Interacción**
+
 
