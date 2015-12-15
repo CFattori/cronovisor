@@ -31,12 +31,14 @@ La alumna trabaja usando como power point, o ce microsoft, google para buscar tr
 
 ### Identificar de qué trata el sitio y para qué sirve
 
-Reconoce que el sitio es educativo, que sirve para investigar, recorrer un mapa, crear presenta- ciones para mostar en clases, que hay “cosas” para los profesores y unas presentaciones al  nal.
+![](img/prueba/Captura 1.png)
+
+Reconoce que el sitio es educativo, que sirve para investigar, recorrer un mapa, crear presentaciones para mostrar en clases, que hay “cosas” para los profesores y unas presentaciones al  final.
 
 
 ### Identificar los elementos de exploración
 
-
+![](img/prueba/Captura 2.png)
 
 Tiene dificultad para notar qué elemento está en seleccionado en la parte central de la exploración. hay que resaltar más cuando un elemento está centrado en la linea de tiempo.
 
@@ -46,26 +48,27 @@ Tiene dificultad en identificar los elementos de búsqueda no reconoce bien en 
 ### Ingresar datos de búsqueda
 
 
+![](img/prueba/Captura 3.png)
 
 Tiene una ligera confusión en el ingreso de datos de búsqueda, al principio trata en la sección explorar, luego se da cuenta de la barra de buscar.
 
 
 ### Seleccionar un elemento y agregar a su presentación
 
+![](img/prueba/Captura 4.png)
 
-
-No presenta di cultad en la selección de elementos para su presentación, identfica claramente los botones de agregar imagen, mapa, texto o elemento. Y cuando estos se agregan a su cronovisión.
+No presenta dificultad en la selección de elementos para su presentación, identfica claramente los botones de agregar imagen, mapa, texto o elemento. Y cuando estos se agregan a su cronovisión.
 
 
 ### Seleccionar un elemento y agregar a su presentación
 
-
+![](img/prueba/Captura 5.png)
 
 La sección de crear debe ser donde el usuario debe editar la presentación con los elementos recién guardados, la sección cronovisones está mal enfocada pues aquí es donde deberían estar las cronovisiones  finalizadas.
 
 
 ### Editar presentación
 
+![](img/prueba/Captura 6.png)
 
-
-Identi ca correctamente los botones para editar pues al realizar presentaciones con power point está familiarizada con los botones de interacción y las cosas que puede hacer aquí.
+Identifica correctamente los botones para editar pues al realizar presentaciones con power point está familiarizada con los botones de interacción y las cosas que puede hacer aquí.
