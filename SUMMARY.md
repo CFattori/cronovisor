@@ -18,6 +18,6 @@
    * [logotipo](part3/logotipomd.md)
    * [Iconos](part3/iconosmd.md)
    * [Interfaz](part3/interfazmd.md)
-   * Prueba de Usuario
+   * [Prueba de Usuario](part3/prueba_de_usuario.md)
 * [Colofón](colofon.md)
 
