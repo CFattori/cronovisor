@@ -11,7 +11,7 @@ Las funciones y operaciones esta plataforma estan representadas en el modelo que
 **Cronovisiones**: Tras la construcción de relaciones en conjunto con los elementos (Hechos, Personajes) el usuario crea estas presentaciones denominadas “*Cronovisiones*”, en la cual muestra sus observaciones en base a la relación de eventos y personajes, fundamentando con textos e imágenes.
 
 <br>
-
+![modelo](modelo/Modelo_3.png)
 
 ## Objetivos
 
@@ -23,9 +23,5 @@ La propuesta consiste en una plataforma digital que permite la búsqueda e indag
 
 **Comunicar**: A través de la creación de estas visualizaciones los estudiantes pueden trabajar en grupos para comunicar, planear y organizar cómo van a presentar sus visualizaciones mediante el trabajo en equipo, a su vez pueden presentar sus estudios y conclusiones con los demás alumnos con estas presentaciones.
 
-
-Este modelo representa las funciones y operaciones en la que funciona esta plataforma.
-
-Se puede observar que lo primero que debe hacer el *usuario* es **registrarse**, seleccionar un tipo de usuario, para seguir adelante, ya sea **buscar** una presentación o **crear** una presentación, para ello es primordial **ingresar datos**. Una vez creado el *hecho*, se deben crear más para la posterior realización de una *presentación*, las cuales se suman formando una *galería* de estas. Estas presentaciones pueden ser evaluadas, comentadas, por otros usuarios, y supervisadas por el profesor.
-
-
+<br>
+![modelo](modelo/modelo 2.png)
