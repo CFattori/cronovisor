@@ -35,8 +35,8 @@ Actualizaciones de la paltaforma, mejoras, etc.
 ## Partituras de interacción
 
 
-
-Secuencias de acción e interacción del usuario con el proyecto. Aquí se ilustran las distintas maneras en las que el usuario trabajaría, exploraría y crearía las presentaciones con el uso de esta plataforma digital.
+Secuencias de acción e interacción del usuario con el proyecto. Aquí se ilustran las distintas ma- neras en las que el usuario trabajaría, exploraría y crearía las presentaciones con el uso de esta plataforma digital.
+Aquí se presenta solamente las partituras de Búsqueda de elementos y la Creación y Edición de presentaciones en la plataforma por ser las interacciones principales de esta.
 
 * **inicio/registro**: Aquí se le pide al usario iniciar o registrarse utilizando una de sus cuentas de redes sociales como g+ o facebook, siendo estas en chile las más populares. Pidiendo autorización para que el sitio obtenga los datos requeridos para el perfil.
 * **registro**: Aquí se le piden los siguientes datos=Nombre, Apellido, email y contraseña.
