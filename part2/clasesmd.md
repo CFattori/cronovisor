@@ -82,9 +82,9 @@ Además poseen otro aspecto denominado** Tema**, estos campos permiten tanto pa
 
 Estos **Temas** están distiguidos de la siguiente manera:
 
-* **cultural**: artistas, filósofos.
-* **científico**: inventores, descubridores.
-* **politico**: gobernantes, guerreros, cargos políticos y  militares.
-* **religioso**: sacerdotes, guías espirituales, teólogos.
+* **cultural**
+* **científico**
+* **politico**
+* **religioso**
 
 
