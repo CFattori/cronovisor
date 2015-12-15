@@ -81,4 +81,4 @@ A partir de la lectura del texto escolar se organizan los datos relevantes para 
 
 Estos datos y relaciones se ven mejor organizados en este cuadro comparativo, en el cual se aprecian las fechas, cronológicamente organizadas por el proceso de república romana, las características de cada aspecto de este proceso y su relación y comparación con el proceso de democracia griega.
 
- ![cuadro comparativo](img/caso/CF_caso_1.png)
+![cuadro comparativo](img/caso/CF_caso_1.png)
