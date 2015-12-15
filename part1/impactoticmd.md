@@ -27,7 +27,7 @@ La metodología aplicada por Enlaces para esta medición se llevó a cabo a trav
 El estudio se aplicó de manera censal a los establecimientos subvencionados, que brindan educación básica y/o media, y a una muestra representativa de establecimientos particulares pagados.
 
 <br>
-![](IndicesGenerales.jpg)
+![](img/ticchile/IndicesGenerales.jpg)
 
 Observando el gráfico se puede notar que tanto la **Infraestructura y gestión de las tecnologías TIC en los establecimientos es alta**, más el **uso de estas a lo largo de chile es de un rango medio**, en la cual destacan las regiones extremas del norte (Arica y Parinacota) y del sur (Magallanes) y que tanto la región de Valparaiso como las del centro sur del Maule y BioBio poseen un alto nivel de infraestructura pero medio indice de uso.
 
@@ -59,22 +59,22 @@ El artículo hace referencia al acceso progresivo de los estudiantes a computado
 En el gráfico se puede apreciar cómo ha aumentado el acceso de los alumnos a computadores en los establecimientos escolares alcanzando un promedio de **10 alumnos por computador**, teniendo como referencia que los países de la OCDE están entre 5 a 10 alumnos. 
 
 <br>
-![](CF_grafica1.jpg)
+![](img/ticchile/CF_grafica1.jpg)
 
 El cambio progresivo desde conexión telefónica a banda ancha de estos establecimientos permiten entregar mejor acceso a internet a los estudiantes, por ende a mayor información. 
 
 <br>
-![](CF_grafica2.jpg)
+![](img/ticchile/CF_grafica2.jpg)
 
 Complementando estos datos de acceso se puede apreciar la relevancia de los computadores según los sectores socioeconómicos. Mientras en los sectores más acomodados los alumnos acceden a estas tecnologías en sus hogares los sectores socioeconómicos mas bajos acceden a estos en las escuelas. 
 
 <br>
-![](CF_grafica3.jpg)
+![](img/ticchile/CF_grafica3.jpg)
 
 Se concluye que los programas de Enlaces cumplen con el objeto de reducir esta brecha de acceso, mas estos programas reducirán este rol mientras el poder adquisitivo de las familias acceda por cuentea propia a estas tecnologías, lo cual se aprecia en la gráfica siguiente. 
 
 <br>
-![](CF_grafica4.jpg)
+![](img/ticchile/CF_grafica4.jpg)
 
 ### Frecuencia de uso de las TIC
 
@@ -83,19 +83,19 @@ Se concluye que los programas de Enlaces cumplen con el objeto de reducir esta b
 En este aspecto la frecuencia de uso en los liceos es bastante pareja entre niveles socioeconómicos, pero esta frecuencia es bastante mayor desde el hogar. Según el artículo se explica porque "*lo que hace Enlaces es, fundamentalmente, poner un laboratorio compartido en las escuelas y, en términos de cada estudiante, es bastante poco lo que pueden usarlo ya que es un recurso compartido*". 
 
 <br>
-![](CF_grafica5.jpg)
+![](img/ticchile/CF_grafica5.jpg)
 
 AL observar cómo se distribuyen los distintos tipos de uso según los quintiles de ingreso hace notar que las diferencias sociales persisten. Esto debido a que "*en los hogares no existe tecnología con las mismas condiciones de equidad que en las escuelas*". 
 
 Al observar cómo se distribuyen los distintos tipos de uso según los quintiles de ingreso hace notar que las diferencias sociales persisten. Esto debido a que "en los hogares no existe tecnología con las mismas condiciones de equidad que en las escuelas" de esta manera los que po- seen más recursos económicos utilizan las TIC con mayor frecuencia en distintas tareas más que los de clases sociales inferiores.
 
 <br>
-![](CF_grafica7.jpg)
+![](img/ticchile/CF_grafica7.jpg)
 
 Sin embargo denota lo bien instalados que están las prácticas y usos de TIC entre los jóvenes gracias a un estudio del Instituto Nacional de la Juventud de 2007, en el cual se observa que el uso más frecuente es para la búsqueda de información. 
 
 <br>
-![](CF_grafica6.jpg)
+![](img/ticchile/CF_grafica6.jpg)
 
 ### Habilidades desarrolladas por los estudiantes
 
@@ -104,14 +104,14 @@ Sin embargo denota lo bien instalados que están las prácticas y usos de TIC 
 El artículo define a las habilidades TIC para el aprendizaje como "*la capacidad de buscar, sintetizar, analizar, comparar, reconfigurar y presentar información, así como comunicarse con otros en un ambiente digital*". 
 
 <br>
-![](CF_grafica10.jpg)
+![](img/ticchile/CF_grafica10.jpg)
 
 Se observa que los resultados son "*interesantes*" porque según el autor "*no son tan altos como hubiesen esperado quienes piensan que el solo acceso a las tecnologías produce ese tipo de impacto, pero tampoco tan bajos como los que esperarían quienes sostienen que en Chile no existe un currículo específicamente orientado a desarrollar esas competencias*".
 
 Se advierte también que el nivel de confianza de estas habilidades adquiridas en el uso de TICs según niveles socioeconómicos persisten. 
 
 <br>
-![](CF_grafica9.jpg)
+![](img/ticchile/CF_grafica9.jpg)
 
 ### Conclusión
 
@@ -163,7 +163,7 @@ Los alumnos y alumnas en este nivel hacen uso de las TIC para buscar, evaluar y 
 El puntaje promedio nacional alcanzado por los estudiantes de 2° Medio que rindieron la prueba corresponde a **249 puntos**. Este resultado indica que están en un nivel Intermedio (sobre los 246 puntos). 
 
 <br>
-![](CF_grafica11.jpg)
+![](img/ticchile/CF_grafica11.jpg)
 
 El informe detalla que a nivel nacional "* un 3,3% de los estudiantes de 2° Medio se encuentra en el Nivel Avanzado, es decir, alcanza el estándar deseado para este nivel de enseñanza; un 50,5% alcanza un Nivel Intermedio; y un 46,2% se ubica en el Nivel Inicial.*"
 
@@ -179,7 +179,7 @@ Sin embrago, la única región que muestra un desempeño **significativamente su
 En cuanto a las que registran los puntajes **promedio más bajos** son la región del Maule (232 puntos)y la región de Los Ríos (233 puntos). 
 
 <br>
-![](CF_grafica12.jpg)
+![](img/ticchile/CF_grafica12.jpg)
 
 Esto supone que la centralización de los mejores recursos, métodos de enseñanza y acceso se encuentran en la región metropolitana. A la vez que la mayoría de las regiones s e encuentran en un nivel de logro intermedio muy por lejos de los 336 puntos deseados del nivel avanzado.
 
@@ -194,7 +194,7 @@ En los resultados por Nivel Socioeconómicos se obtuvo que en términos generale
 * Los Grupos Medio Alto y Alto registran un puntaje promedio superior a la media nacional.
 
 <br>
-![](CF_grafica13.jpg)
+![](img/ticchile/CF_grafica13.jpg)
 
 ### Por Dependencia Administrativa
 
@@ -216,10 +216,10 @@ En cuanto a los resultados según Dependencia Administrativa se observa que:
 Se obtiene que los hombres obtienen 247 puntos y las mujeres 250 puntos, por lo que las mujeres logran un resultado levemente superior al haber un resultado porcentual mayor en el nivel intermedio superior al de los hombres, sin que la diferencia sea significativa. 
 
 <br>
-![](CF_grafica15.jpg)
+![](img/ticchile/CF_grafica15.jpg)
 
 <br>
-![](CF_grafica16.jpg)
+![](img/ticchile/CF_grafica16.jpg)
 
 ### Conclusión
 
