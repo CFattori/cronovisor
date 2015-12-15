@@ -89,3 +89,4 @@ Estos **Temas** están distiguidos de la siguiente manera:
 
 
 <br>
+![diagrama de clases](img/clases/Diagrama_de_clases-03.png) 
