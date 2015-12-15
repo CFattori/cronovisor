@@ -160,17 +160,17 @@ noti cación: el sistema avisa al usuario que sus elementos han sido guardados.
 ![](img/interfaz/paleta cromatica.png)
 
 * 
-**home*** 
+**edición imagen*** 
 
-edición imagen: vista de la edición de una imagen.
+vista de la edición de una imagen.
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
 
 * 
-**home*** 
+**edición imagen*** 
 
-edición imagen: vista de la edición de una imagen.
+vista de la edición de una imagen.
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
