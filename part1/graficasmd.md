@@ -29,7 +29,7 @@ A partir del análisis de antecedentes históricos, se reconoce la necesidad de 
  
  <br>
  
- ![](Lineas temporales1.jpg)
+ ![líneas temporales](img/graficas/Lineas temporales1.jpg)
 
  ***Se observaron***: *Carte chronologique (1753) de Jacques Barbeu-Dubourg, Chart of Biography (1765) y Chart of History (1769) de Joseph Priestley, Chrono - Genealogical Chart of the Third Age of the World (1805)de Robert Wilkinson, y  An Historical Chart representing ... of the principal Empires of the World (1815) John Mellish.*
 
@@ -45,7 +45,7 @@ Mas densos en información, las tablas temporales organizan el contenido en base
 Recurren a la parte mas analítico del cerebro para su interpretación, relegando muchas veces del icono o el símbolo, sino que se divide el contenido en cuadros, y estos a su vez en colores. Los textos se “alojan” dentro de estos limites. La lectura se rige por las normas clásicas de izquierda a derecha, arriba hacia abajo, sin mayor intención que la entrega de información sin mayor innovación.
 
  <br>
-![](Tablas  temporales1.jpg)
+![tabñas temporales](img/graficas/Tablas  temporales1.jpg)
 
 ***Se observaron***: *Chronologie des rois de France (1755) por Abbe de Dangeau, Succession of Bishops with the alterations of Dioceses at different Times in England (1819) de Robert Wilkinson, Chronological Map of Universal History (1820) y Pantographys [Cronología] of Modern History (1820) por Mathew Carey & M.Lavoisne.*
 
@@ -58,7 +58,7 @@ A partir del Siglo XVIII podemos notar una prominente incursión de la ilustraci
 Personajes como Emma Willard y Euguine Pick utilizaran la imagen como un complemento que agregaría otra dimensión a los sistemas de visualización: la artística. Presentado gran información es espacios pequeños, jerarquizan el contenido según tamaño y relevancia, seducen al lector a través de la forma primero y al contenido después, aunque no tengan relación directa una con la otra. Casi como una respuesta la representación infográfica de William Playfair o Florence Nightingale, el nuevo siglo remplaza el cuadro por imagen que se repleta en contenido.
 
  <br>
-![](rep figurativas1.jpg)
+![representaciones figurativas](img/graficas/rep figurativas1.jpg)
 
 ***Se observaron:*** *Progress Of The Roman Empire (1824) Picture of nations (1836) Temple of Time (1846) por Emma Willard, Series Of Maps Of The World As Known At Different Periods(1830) por Edward Quin, Leonard's Chronological (1850) por C.W Leonard, Tableau De L'Histoire Universelle - Eastern Hemisphere (1858)por Eug. Pick, Adams' Synchronological Chart (1881) por Sebastian C. Adams, Gráfico Sincronóptico de la Historia (1989) por Andreas Nothinger.*
 
@@ -77,6 +77,6 @@ A la introducción de las nuevas tecnologías, la hoja pasa a ser remplazada por
 Aunque proyectos como **ChronoZoom** (2010) y **My Histro** (2011) hacen una tímida aproximación a una nueva interactividad, ya sea valiéndose de herramientas simples como el “acercamiento” o directamente llamando a la creación de contenido propio. Un hito a parte es considerar Wikipedia como la máxima representación de la libertad de información de esta generación, siendo la enciclopedia virtual libre, y las redes sociales como fuentes de opinión. Siguen mostrando una visión de la historia a la vez, una sola perspectiva a medida que se tranza interacción por contenido y relevancia. 
  
  <br>
-![](virtuales1.jpg)
+![líneas de tiempo virtuales](img/graficas/virtuales1.jpg)
 
 ***Se observaron:*** *Hiperhistoria Online (199-?) Símil: Cronología (2006) ChronoZoom. (2010) Historias Visuales DIY: myHistro.com (2011)*
