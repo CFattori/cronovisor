@@ -62,7 +62,7 @@ descripción y promoción del sitio.
  selección de explorar elementos o cronovisiones.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 1.png)
 
 * 
 **cronovisiones*** 
@@ -70,7 +70,7 @@ descripción y promoción del sitio.
 visualización de presentaciones realizadas.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 4.png)
 
 
 * 
@@ -79,7 +79,7 @@ visualización de presentaciones realizadas.
 selección de cronovisiones por temas..
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 5.0.png)
 
 * 
 **búsqueda*** 
@@ -87,7 +87,7 @@ selección de cronovisiones por temas..
 ingreso de datos, sea evento, personaje, lugar o año.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 6-1.png)
 
 * 
 **elementos*** 
@@ -95,14 +95,14 @@ ingreso de datos, sea evento, personaje, lugar o año.
 resultado de búsqueda, vista de un hecho o personaje, selección de temas.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 7 h.png)
 
 * 
 **vista elemento*** 
 
 visualización de un elemento con texto, imágen y mapa.
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 8.0.png)
 
 * 
 **solo imagen*** 
@@ -110,7 +110,7 @@ visualización de un elemento con texto, imágen y mapa.
 visualización de un elemento solo de imagen.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 8.1 .png)
 
 * 
 **selección elemento*** 
@@ -118,7 +118,7 @@ visualización de un elemento solo de imagen.
  el botón agregar brilla cuando un elemento completo es seleccionado.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 18.2.png)
 
 * 
 **selección texto*** 
@@ -126,7 +126,7 @@ visualización de un elemento solo de imagen.
 el usuario puede seleccionar una parte del texto para su cronovisión.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 18.6.png)
 
 * 
 **selección imágen*** 
@@ -134,7 +134,7 @@ el usuario puede seleccionar una parte del texto para su cronovisión.
 el usuario puede seleccionar solo la imagen para su cronovisión.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 18.4.png)
 
 * 
 **notificación*** 
@@ -142,7 +142,7 @@ el usuario puede seleccionar solo la imagen para su cronovisión.
 el sistema avisa al usuario que sus elementos han sido guardados.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 18.3.png)
 
 
 * 
@@ -151,15 +151,15 @@ el sistema avisa al usuario que sus elementos han sido guardados.
 vista de la edición de una imagen.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 20.0.png)
 
 * 
-**edición imagen*** 
+**edición texto*** 
 
-vista de la edición de una imagen.
+vista de la edición de un texto como relación.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 20.1.png)
 
 
 * 
@@ -168,4 +168,4 @@ vista de la edición de una imagen.
 visualización de una cronovisión integrada por textos, imágenes y elementos, todos relaciona- dos y unidos los puntos que la componen.
 
 <br>
-![](img/interfaz/paleta cromatica.png)
+![](img/interfaz/Desktop 20.png)
