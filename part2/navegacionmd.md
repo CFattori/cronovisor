@@ -31,7 +31,7 @@ Textos y videos que enseñan como navegar, guardar hehos/personajes y crear/edi
 Actualizaciones de la paltaforma, mejoras, etc.
 
 <br>
-![mapa de navegación](img/navegacion/Mapa_de_navegación.png)
+![mapa de navegación](img/navegacion/Mapa_de_navegacion.jpg)
 
 ## Partituras de interacción
 
