@@ -302,14 +302,19 @@ Para el desarrollo de este proyecto este está concentrado en satisfacer las  si
 
 
 Comprende las habilidades de Buscar, seleccionar, evaluar y organizar información digital.
-Aquí el estudiante debe poder lograr crear un nuevo producto o una nueva idea. Está relacionada con las habilidades del s.XXI de creatividad en la cual el estudiante debe ser observador, reconocer la realidad que lo rodea, usar su conocimiento y  buscar nuevas relaciones ya sea entre personas, lugares y objetos. También tiene que ver con la habilidad de pensamiento crítico la cual tiene que ver con  discriminar la calidad de la información, exponer correcta y ordenadamente y pensar de manera autónoma. Requiere la búsqueda de conexiones entre las piezas de material reunido y la elaboración de conclusiones a partir de los mejores análisis.
+
+Aquí el estudiante debe poder lograr crear un nuevo producto o una nueva idea. Está relacionada con las habilidades del s.XXI de creatividad en la cual el estudiante debe ser observador, reconocer la realidad que lo rodea, usar su conocimiento y  buscar nuevas relaciones ya sea entre personas, lugares y objetos.
+
+También tiene que ver con la habilidad de pensamiento crítico la cual tiene que ver con  discriminar la calidad de la información, exponer correcta y ordenadamente y pensar de manera autónoma. Requiere la búsqueda de conexiones entre las piezas de material reunido y la elaboración de conclusiones a partir de los mejores análisis.
 
 
 ### Comunicación y Colaboración
 
 
 
-La cual agrupa las habilidades de transmitir e intercambiar ideas y trabajar a distancia con el uso de la tecnología. En el trabajo colaborativo todos poseen un rol protagónico y son responsables por el resultado final. Es una habilidad del s.XXI relacionada con la negociación, la resolución de conflictos, la toma de decisiones, la distribución de tareas, el saber escuchar a otros y la integración de las ideas en un todo.
+La cual agrupa las habilidades de transmitir e intercambiar ideas y trabajar a distancia con el uso de la tecnología. 
+
+En el trabajo colaborativo todos poseen un rol protagónico y son responsables por el resultado final. Es una habilidad del s.XXI relacionada con la negociación, la resolución de conflictos, la toma de decisiones, la distribución de tareas, el saber escuchar a otros y la integración de las ideas en un todo.
 
 
 De esta manera el proyecto de plataforma virtual busca satisfacer los requerimientos de estas propuestas educativas concentrada en una forma de aplicarla las clase de historia.
