@@ -35,10 +35,15 @@ Actualizaciones de la paltaforma, mejoras, etc.
 ## Partituras de interacción
 
 
-Secuencias de acción e interacción del usuario con el proyecto. Aquí se ilustran las distintas ma- neras en las que el usuario trabajaría, exploraría y crearía las presentaciones con el uso de esta plataforma digital.
+Secuencias de acción e interacción del usuario con el proyecto. Aquí se ilustran las distintas maneras en las que el usuario trabajaría, exploraría y crearía las presentaciones con el uso de esta plataforma digital.
 Aquí se presenta solamente las partituras de Búsqueda de elementos y la Creación y Edición de presentaciones en la plataforma por ser las interacciones principales de esta.
 
-* **inicio/registro**: Aquí se le pide al usario iniciar o registrarse utilizando una de sus cuentas de redes sociales como g+ o facebook, siendo estas en chile las más populares. Pidiendo autorización para que el sitio obtenga los datos requeridos para el perfil.
-* **registro**: Aquí se le piden los siguientes datos=Nombre, Apellido, email y contraseña.
-* **búsqueda**: Aquí el usuario hace uso de las opciones de búsqueda, ingresando un término de búsqueda, al aparecer los datos coincidentes, el usario tiene la opción de especificar la búsqueda por tema y tipo. También buscando los hechos a travez de la barra de tiempo. Al selecciona los hechos y personajes que requiera el sistema pide guardar los datos y dónde los quiere guardar.
-* **creación**: Para crrear una cronovisión el usuario debe ingresar a su galería de hechos para seleccionar los que utilizará, revisar los datos contenidos en esta, seleccionar si es una nueva o anterior cronovisión y darle nombre, luego se abre la ventana de cronovisiones, ve la secuencia de hechos pudiendo reproducir, editar el contenido de los hechos para generar otros y agregar las relaciones entre un hecho y otro.
+* 
+**Búsqueda**
+
+Aquí el usuario hace uso de las opciones de búsqueda, ingresando un término de búsqueda, al aparecer los datos coincidentes, el usario tiene la opción de especi car la búsqueda por tema y tipo. También buscando los hechos a travez de la barra de tiempo. Al selecciona los hechos y personajes que requiera el sistema pide guardar los datos y dónde los quiere guardar.
+
+* **Creación y Edición
+**
+
+Para crrear una cronovisión el usuario debe ingresar a su galería de hechos para seleccionar los que utilizará, darle nombre a la cronovisión. Luego se abre la ventana de cronovisiones, edita los datos de descripción y foto, organiza el orden de los elementos, crea relaciones y selecciona el modo de visualizacion de estos organinzandolos en el orden del relato que quiera.
