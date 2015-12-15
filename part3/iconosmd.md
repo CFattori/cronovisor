@@ -5,15 +5,10 @@ Se utilizan iconos coloridos y simples para que la plataforma posea una aspecto 
 
 Los iconos se distinguen de acuerdo a la función que cumplen en el sitio, sea este para identificar elementos de interacción como otros de función ilustrativa.
 
-
-
 * **Categorías**
-
-
-
 * **Secciones**
-
-
 * **Interacción**
 
+<br>
+![iconos](img/iconos/cf_iconos.png)
 
