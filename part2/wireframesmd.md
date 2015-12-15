@@ -18,3 +18,35 @@ Para este proyecto se decide por una maquetación que utiliza el máximo de an
 Las secciones de búsqueda y menúes principales se ubican en la parte superior de la pantalla como la secciones menos importantes en la parte inferior.
 Para facilitar la navegación, edición y organización de los otros elementos, se decide utilizar la primera pantalla , evitando un sitio vertical.
 
+<br>
+![](img/wireframes/CF_1_home_2.fw.png)
+*home: descripción y promoción del sitio*
+
+<br>
+![](img/wireframes/CF_2_busqueda_1_2.fw.png)
+*buscar: buscador y elementos de selección en la parte superior*
+
+<br>
+![](img/wireframes/CF_2_busqueda_2.fw.png)
+*elemento: visualizaciñon de  cha hecho o personaje en mapa.*
+
+<br>
+![](img/wireframes/CF_5_editar_3.fw.png)
+*relación: ventana emergente de editor de creación de relación.*
+
+<br>
+![](img/wireframes/CF_5_editar.fw.png)
+*cronovisiones: galería de cronovisiones dentro de la sección perfil de usuario.*
+
+
+<br>
+![](img/wireframes/CF_5_editar_1.fw.png)
+*edición: agregar imagen, título y descripción de la cronovisión.*
+
+<br>
+![](img/wireframes/CF_5_editar_2.fw.png)
+*solo texto: visualización de un elemento solo de texto y mapa.*
+
+<br>
+![](img/wireframes/CF_5_editar_6.fw.png)
+*solo imagen: visualización de un elemento solo de imagen.*
