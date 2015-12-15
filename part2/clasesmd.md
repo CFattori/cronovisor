@@ -78,7 +78,7 @@ Tanto *Hechos* como los *Personaje*s poseen rasgos que comparten, como he mencio
 * **Lugar**: permite ver elementos en los cinco continentes.
 * **Tiempo**: dispone de enlaces a otras lineas de tiempo más generales relacionadas.
 
-Además poseen otro aspecto denominado Tema, estos campos permiten tanto para relacionar como dividir y simplificar la búqueda.
+Además poseen otro aspecto denominado** Tema**, estos campos permiten tanto para relacionar como dividir y simplificar la búqueda.
 
 Estos **Temas** están distiguidos de la siguiente manera:
 
