@@ -82,10 +82,20 @@ Se concluye que los programas de Enlaces cumplen con el objeto de reducir esta b
 
 En este aspecto la frecuencia de uso en los liceos es bastante pareja entre niveles socioeconómicos, pero esta frecuencia es bastante mayor desde el hogar. Según el artículo se explica porque "*lo que hace Enlaces es, fundamentalmente, poner un laboratorio compartido en las escuelas y, en términos de cada estudiante, es bastante poco lo que pueden usarlo ya que es un recurso compartido*". 
 
+<br>
+![](CF_grafica5.jpg)
+
 AL observar cómo se distribuyen los distintos tipos de uso según los quintiles de ingreso hace notar que las diferencias sociales persisten. Esto debido a que "*en los hogares no existe tecnología con las mismas condiciones de equidad que en las escuelas*". 
 
-Sin embargo denota lo bien instalados que están las prácticas y usos de TIC entre los jóvenes gracias a un estudio del Instituto Nacional de la Juventud de 2007, en el cual se observa que el uso más frecuente es para la búsqueda de información. 
+Al observar cómo se distribuyen los distintos tipos de uso según los quintiles de ingreso hace notar que las diferencias sociales persisten. Esto debido a que "en los hogares no existe tecnología con las mismas condiciones de equidad que en las escuelas" de esta manera los que po- seen más recursos económicos utilizan las TIC con mayor frecuencia en distintas tareas más que los de clases sociales inferiores.
 
+<br>
+![](CF_grafica7.jpg)
+
+Sin embargo denota lo bien instalados que están las prácticas y usos de TIC entre los jóvenes gracias a un estudio del Instituto Nacional de la Juventud de 2007, en el cual se observa que el uso más frecuente es para la búsqueda de información. 
+
+<br>
+![](CF_grafica6.jpg)
 
 ### Habilidades desarrolladas por los estudiantes
 
@@ -93,10 +103,15 @@ Sin embargo denota lo bien instalados que están las prácticas y usos de TIC en
 
 El artículo define a las habilidades TIC para el aprendizaje como "*la capacidad de buscar, sintetizar, analizar, comparar, reconfigurar y presentar información, así como comunicarse con otros en un ambiente digital*". 
 
+<br>
+![](CF_grafica10.jpg)
+
 Se observa que los resultados son "*interesantes*" porque según el autor "*no son tan altos como hubiesen esperado quienes piensan que el solo acceso a las tecnologías produce ese tipo de impacto, pero tampoco tan bajos como los que esperarían quienes sostienen que en Chile no existe un currículo específicamente orientado a desarrollar esas competencias*".
 
 Se advierte también que el nivel de confianza de estas habilidades adquiridas en el uso de TICs según niveles socioeconómicos persisten. 
 
+<br>
+![](CF_grafica9.jpg)
 
 ### Conclusión
 
@@ -147,6 +162,9 @@ Los alumnos y alumnas en este nivel hacen uso de las TIC para buscar, evaluar y 
 
 El puntaje promedio nacional alcanzado por los estudiantes de 2° Medio que rindieron la prueba corresponde a **249 puntos**. Este resultado indica que están en un nivel Intermedio (sobre los 246 puntos). 
 
+<br>
+![](CF_grafica11.jpg)
+
 El informe detalla que a nivel nacional "* un 3,3% de los estudiantes de 2° Medio se encuentra en el Nivel Avanzado, es decir, alcanza el estándar deseado para este nivel de enseñanza; un 50,5% alcanza un Nivel Intermedio; y un 46,2% se ubica en el Nivel Inicial.*"
 
 
@@ -160,6 +178,10 @@ Sin embrago, la única región que muestra un desempeño **significativamente su
 
 En cuanto a las que registran los puntajes **promedio más bajos** son la región del Maule (232 puntos)y la región de Los Ríos (233 puntos). 
 
+<br>
+![](CF_grafica12.jpg)
+
+Esto supone que la centralización de los mejores recursos, métodos de enseñanza y acceso se encuentran en la región metropolitana. A la vez que la mayoría de las regiones s e encuentran en un nivel de logro intermedio muy por lejos de los 336 puntos deseados del nivel avanzado.
 
 ### Por Nivel Socioeconómico
 
@@ -171,7 +193,8 @@ En los resultados por Nivel Socioeconómicos se obtuvo que en términos generale
 
 * Los Grupos Medio Alto y Alto registran un puntaje promedio superior a la media nacional.
 
-
+<br>
+![](CF_grafica13.jpg)
 
 ### Por Dependencia Administrativa
 
@@ -183,7 +206,8 @@ En cuanto a los resultados según Dependencia Administrativa se observa que:
 
 * Los establecimientos educacionales **Municipales**: Obtienen 227 puntos.Por lo tanto **se encuentran por debajo de la media** nacional 2011.
 
-
+<br>
+![](CF_grafica14.jpg)
 
 ### Por Género
 
@@ -191,6 +215,11 @@ En cuanto a los resultados según Dependencia Administrativa se observa que:
 
 Se obtiene que los hombres obtienen 247 puntos y las mujeres 250 puntos, por lo que las mujeres logran un resultado levemente superior al haber un resultado porcentual mayor en el nivel intermedio superior al de los hombres, sin que la diferencia sea significativa. 
 
+<br>
+![](CF_grafica15.jpg)
+
+<br>
+![](CF_grafica16.jpg)
 
 ### Conclusión
 
