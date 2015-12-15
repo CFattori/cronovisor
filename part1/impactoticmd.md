@@ -26,6 +26,8 @@ La metodología aplicada por Enlaces para esta medición se llevó a cabo a trav
 
 El estudio se aplicó de manera censal a los establecimientos subvencionados, que brindan educación básica y/o media, y a una muestra representativa de establecimientos particulares pagados.
 
+
+
 Observando el gráfico se puede notar que tanto la **Infraestructura y gestión de las tecnologías TIC en los establecimientos es alta**, más el **uso de estas a lo largo de chile es de un rango medio**, en la cual destacan las regiones extremas del norte (Arica y Parinacota) y del sur (Magallanes) y que tanto la región de Valparaiso como las del centro sur del Maule y BioBio poseen un alto nivel de infraestructura pero medio indice de uso.
 
 
@@ -54,6 +56,8 @@ El articulo realizado por esta institución se destacan 3 líneas de investigaci
 El artículo hace referencia al acceso progresivo de los estudiantes a computadores en el aula gracias al Enlaces, el cual en sus distintas actividades busca reducir la brecha digital entre los estudiantes de distintos niveles socioeconómicos.
 
 En el gráfico se puede apreciar cómo ha aumentado el acceso de los alumnos a computadores en los establecimientos escolares alcanzando un promedio de **10 alumnos por computador**, teniendo como referencia que los países de la OCDE están entre 5 a 10 alumnos. 
+
+
 
 El cambio progresivo desde conexión telefónica a banda ancha de estos establecimientos permiten entregar mejor acceso a internet a los estudiantes, por ende a mayor información. 
 
