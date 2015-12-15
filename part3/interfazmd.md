@@ -72,92 +72,78 @@ visualización de presentaciones realizadas.
 <br>
 ![](img/interfaz/paleta cromatica.png)
 
-* 
-**home*** 
 
-descripción y promoción del sitio.
+* 
+**categorías*** 
+
+selección de cronovisiones por temas..
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
 
 * 
-**home*** 
+**búsqueda*** 
 
-categorías: selección de cronovisiones por temas..
-
-<br>
-![](img/interfaz/paleta cromatica.png)
-
-* 
-**home*** 
-
-búsqueda: ingreso de datos, sea evento, personaje, lugar o año.
+ingreso de datos, sea evento, personaje, lugar o año.
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
 
 * 
-**home*** 
+**elementos*** 
 
-elementos: resultado de búsqueda, vista de un hecho o personaje, selección de temas.
-
-<br>
-![](img/interfaz/paleta cromatica.png)
-
-* 
-**home*** 
-
-vista elemento: visualización de un elemento con texto, imágen y mapa.
-<br>
-![](img/interfaz/paleta cromatica.png)
-
-* 
-**home*** 
-
-solo imagen: visualización de un elemento solo de imagen.
+resultado de búsqueda, vista de un hecho o personaje, selección de temas.
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
 
 * 
-**home*** 
+**vista elemento*** 
 
-selección elemento: el botón agregar brilla cuando un elemento completo es seleccionado.
+visualización de un elemento con texto, imágen y mapa.
+<br>
+![](img/interfaz/paleta cromatica.png)
+
+* 
+**solo imagen*** 
+
+visualización de un elemento solo de imagen.
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
 
 * 
-**home*** 
+**selección elemento*** 
 
-selección texto: el usuario puede seleccionar una parte del texto para su cronovisión.
-
-<br>
-![](img/interfaz/paleta cromatica.png)
-
-* 
-**home*** 
-
-selección imágen: el usuario puede seleccionar solo la imagen para su cronovisión.
+ el botón agregar brilla cuando un elemento completo es seleccionado.
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
 
 * 
-**home*** 
+**selección texto*** 
 
-noti cación: el sistema avisa al usuario que sus elementos han sido guardados.
+el usuario puede seleccionar una parte del texto para su cronovisión.
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
 
 * 
-**home*** 
+**selección imágen*** 
 
-noti cación: el sistema avisa al usuario que sus elementos han sido guardados.
+el usuario puede seleccionar solo la imagen para su cronovisión.
 
 <br>
 ![](img/interfaz/paleta cromatica.png)
+
+* 
+**notificación*** 
+
+el sistema avisa al usuario que sus elementos han sido guardados.
+
+<br>
+![](img/interfaz/paleta cromatica.png)
+
 
 * 
 **edición imagen*** 
@@ -180,3 +166,6 @@ vista de la edición de una imagen.
 **presentación**
 
 visualización de una cronovisión integrada por textos, imágenes y elementos, todos relaciona- dos y unidos los puntos que la componen.
+
+<br>
+![](img/interfaz/paleta cromatica.png)
