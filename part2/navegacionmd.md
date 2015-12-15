@@ -4,7 +4,7 @@ El mapa de navegación es un recurso grá co que permite mostrar la organizaci
 
 **Cronovisor:**
 
-Relata las características de la plataforma: Exploración, Organización y Presentación. Invita a la búsqueda que lleva al explorador, enlaza a un tutorial, muestra recursos (guías de aplicación) para que el profesor pueda usar la plataforma en clases y por último una sección decrons destacadas como buenos ejemplos para quienes recien conoscan la plataforma.
+Relata las características de la plataforma: Exploración, Organización y Presentación. Invita a la búsqueda que lleva al explorador, enlaza a un tutorial, muestra recursos (guías de aplicación) para que el profesor pueda usar la plataforma en clases y por último una sección de cronovisiones destacadas como buenos ejemplos para quienes recien conoscan la plataforma.
 
 **Explorar:**
 
