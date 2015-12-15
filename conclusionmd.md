@@ -1,2 +1,17 @@
 # Conclusión
 
+Este proyecto se formula a partir de una inquietud personal, cuan- do asistía a la escuela y en las clases de Historia me preguntaba... mientras unos evenetos sucedían Europa ¿qué sucedía en Asia o en América o en Africa? La visión segementada que nos enseñan en la escuela no satisfacía mis inquietudes y luego se hacía dificil analizar de esa manera cuando más adelante en cursos superio- res la Historia se complejiza y uno se da cuenta que los evenetos no son sucesivos sino que todo puede estar relacionado. Pero en ese tiempo no contaba con los medios tecnológicos con los que cuentan los almunos de hoy.
+
+De esta forma es que se estudia primeramente cómo se ha querido resolver la representación gráfica del tiempo con fines didáctios, para luego verificar qué tan equipados y cómo se han desarrollado las políticas educativas con respecto al uso de tecnologías en la sala de clases accediendo a información disponi- ble del Mineduc y el Programa Enlaces.
+
+A partir del análisis de esta información se plantea el desarrollo de esta plataforma digital que integre los recursos tecnológicos con los que los alumnos cuentan diariamene, la capacidad de adquirir información a través de la web y que ellos mismos puedan producir información para compartir con sus compañeros y no ser solo lectores de información. Puesto que es esta una de las competencias menos desarrolladas en la mayoría de los alumnos: el desarrollo de un producto a partir de la información y la tecnología que cuentan. Que vayan más allá del copy/paste.
+
+Con eso en mente es que la plataforma se enfoca en la utiliza- ción de la información y la tecnología disponible para que los alumnos puedan navegar a través del contenido gráficamente, y en esta misma poder dar cabida a las ideas que crucen su mente al leer la información que obtienen para analizar, meditar y crear relaciones entre los eventos que suceden. Pudiendo comprender o explicar como eventos que suceden al rededor del mundo son capaces de influenciarnos.
+
+Si alguna vez este proyecto ve la luz y se desarrolla cavalmente esta plataforma web podría ser ofertada para integrarse a los recursos de Enlaces del Mineduc a través de Chilecompra. Esta es una plataforma transaccional para vender productos y servicios al Estado.
+
+Primero habría que registrarse en MercadoPublico.cl. Sistema que permite participar en llamados para la contratación o compra de un bien o servicio necesario para la administración pública. Una vez registrado ahí habría que registrarse en ChileProveedores, un nivel de inscripción más avanzado que es requerido a menudo por los organismos públicos. Facilita la participación de los Pro- veedores en el mercado de Compras Públicas (www.mercadopublico.cl) y abre nuevas oportunidad de negocios a las empresas nacionales.
+
+Ofrece también unos cursos de capacitación a empresas y personas que deseen vender sus productos y servicios al Estado a través de la plataforma de licitaciones de ChileCompra.
+
+Esta sería la óptima opción para que esta plataforma llegue a los alumnos de clases sociales bajas, pues son estos los que necesitan desarrollar más sus habilidades Tic.
