@@ -1,10 +1,10 @@
 # Diseño de Interfaz
 
-Se pensó en la tipografía que debiera ocupar la plataforma, la cual debe satisfacer los requerimientos de legibilidad, simpleza y versatilidad, pues como está dirigido a un público escolar, esta debe ser fácil de leer, pero a la vez poseer un carácter afable.
+La propuesta de diseño de interfaz presenta mejoras con respecto a los wireframes anteriores aplicando los estilos de texto y color mencionados anteriormente.
 
-El color aplicado en la plataforma también debe considerar al público usuario, por lo que debe ser limpio, brillante y armonioso. Todo con tal de generar en el usuario una sensación de tranquilidad a la hora de leer, navegar, pensar y construir.
+En este aspecto se logra determinar los recursos de color aplicados para jerarquizar, y enfatizar las acciones del usuario mediante el resalte de los botones en acción en la pantalla de la plataforma. Así como aplicar el estilo iconográfico de esta.
 
-Es en base a estos razonamientos que se tomaron las decisiones que se muestran a continuación.
+También es importante remarcar que es en esta etapa en que se mejora el proceso de interac- ción de la plataforma con el usuario, pues son las **jerarquías de color, tamaño y colo**r los elementos que guían la vista del usuario y por ende conducen al usuario para utilizar correctamente la plataforma virtual.
 
 
 ## Tipografía
