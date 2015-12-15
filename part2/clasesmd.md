@@ -49,11 +49,12 @@ Estos hechos poseen las siguientes características principales:
 
 Estos hechos poseen las siguientes características principales:
 
-• Nombre
-• Fecha Inicio
-• Fecha Termino • Lugar
-• Descripción
-• Tema
+* Nombre
+* Fecha Inicio
+* Fecha Termino 
+* Lugar
+* Descripción
+* Tema
 
 ###Personajes
 
@@ -65,17 +66,18 @@ Estos contienen primeramente las siguientes características:
 * Nacimiento
 * Lugar Nacimiento
 * Fallecimiento
-* Lugar Fallecimiento
+* Lugar Fallecimiento 
 * Causa de muerte
 * Nacionalidad
-* Ciudadanía
-* Ocupación
+* Ocupación
 * Relevancia
+* Tema
 
 Ademas de estar clasificadas a su vez por el tema que lo identifica dentro del ramo del conocimiento o aporte que han realizado:
 
 * **cultura**: artistas, filósofos.
-* **ciencia**: inventores, descubridores.
-* **religión**: sacerdotes, guías espirituales, teólogos.
-* **politica**: gobernantes, guerreros, cargos políticos y  militares.
+* **científico**: inventores, descubridores.
+* **politico**: gobernantes, guerreros, cargos políticos y  militares.
+* **religioso**: sacerdotes, guías espirituales, teólogos.
+
 
