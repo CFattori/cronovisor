@@ -10,9 +10,8 @@ Las funciones y operaciones esta plataforma estan representadas en el modelo que
 
 **Cronovisiones**: Tras la construcción de relaciones en conjunto con los elementos (Hechos, Personajes) el usuario crea estas presentaciones denominadas “*Cronovisiones*”, en la cual muestra sus observaciones en base a la relación de eventos y personajes, fundamentando con textos e imágenes.
 
-## Propuesta
 
-
+## Objetivos
 
 La propuesta consiste en una plataforma digital que permite la búsqueda e indagación de información a través de la visualización de hechos históricos presentados geotemporalmente, para satisfacer los siguientes aspectos:
 
@@ -21,11 +20,6 @@ La propuesta consiste en una plataforma digital que permite la búsqueda e indag
 **Crear**: Gracias a la lectura, análisis, y relación de eventos históricos se pueden seleccionar los eventos deseados para crear presentaciones animadas para la comunicación de los eventos relacionados. Permitiendo al alumno pensar por sí mismo, sacar deducciones, y crear un producto nuevo en base a su conocimiento.
 
 **Comunicar**: A través de la creación de estas visualizaciones los estudiantes pueden trabajar en grupos para comunicar, planear y organizar cómo van a presentar sus visualizaciones mediante el trabajo en equipo, a su vez pueden presentar sus estudios y conclusiones con los demás alumnos con estas presentaciones.
-
-
-
-### Modelo
-
 
 
 Este modelo representa las funciones y operaciones en la que funciona esta plataforma.
