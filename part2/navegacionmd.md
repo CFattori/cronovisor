@@ -30,7 +30,8 @@ Textos y videos que enseñan como navegar, guardar hehos/personajes y crear/edi
 
 Actualizaciones de la paltaforma, mejoras, etc.
 
-
+<br>
+![mapa de navegación](img/navegacion/Mapa_de_navegación-03.png)
 
 ## Partituras de interacción
 
@@ -43,7 +44,11 @@ Aquí se presenta solamente las partituras de Búsqueda de elementos y la Crea
 
 Aquí el usuario hace uso de las opciones de búsqueda, ingresando un término de búsqueda, al aparecer los datos coincidentes, el usario tiene la opción de especi car la búsqueda por tema y tipo. También buscando los hechos a travez de la barra de tiempo. Al selecciona los hechos y personajes que requiera el sistema pide guardar los datos y dónde los quiere guardar.
 
+![partitura búsqueda](img/navegacion/Partitura cronovisor 1-03.png)
+
 * **Creación y Edición
 **
 
 Para crrear una cronovisión el usuario debe ingresar a su galería de hechos para seleccionar los que utilizará, darle nombre a la cronovisión. Luego se abre la ventana de cronovisiones, edita los datos de descripción y foto, organiza el orden de los elementos, crea relaciones y selecciona el modo de visualizacion de estos organinzandolos en el orden del relato que quiera.
+
+![partitura creación](img/navegacion/Partitura cronovisor 1-04.png)
