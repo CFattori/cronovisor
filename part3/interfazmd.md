@@ -16,6 +16,22 @@ Tipografía Roboto (versiones Bold, Medium, Regular y Light) Se aplica tanto pa
 El sitio utiliza la tipografía sans serif, considerando su legibilidad, simpleza, y versatilidad, especial para plataformas digitales. De esta manera, se elige la tipografía Roboto en las mensionadas variantes, aplicando distintos tamaños y color, según la paleta elegida, para generar jerarquías de lectura y facilitar su lectura.
 
 
+### Estilos de texto
+
+
+* 
+**H1**: Roboto Bold, 24 pt cuerpo , color #4C4B4B y #FFFFFF.
+* 
+**H2**: Roboto Medium, 18 pt cuerpo, color #4C4B4B y #FFFFFF. 
+* 
+**H3**: Roboto Medium, 14 pt cuerpo, color #4C4B4B y #FFFFFF. 
+* 
+**Párrafo bási**co: Roboto Regular, 14 pt cuerpo, color #7D7A7A. 
+* 
+**Menu**́: Roboto Bold, 18 pt cuerpo, color #FFFFFF.
+* 
+**Textos menores**: Roboto Light, 13 pt cuerpo, color #7D7A7A.
+
 ## Paleta Cromática
 
 La paleta cromática se basa en la armonía de los colores gris y naranjo, pues ambos están relacionados con la estabilidad, el naranjo con la alegría y juventud, así como el gris con la paz y tenacidad, todo esto en sobre un manto blanco de fondo.
