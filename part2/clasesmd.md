@@ -73,9 +73,16 @@ Estos contienen primeramente las siguientes características:
 * Relevancia
 * Tema
 
-Ademas de estar clasificadas a su vez por el tema que lo identifica dentro del ramo del conocimiento o aporte que han realizado:
+Tanto *Hechos* como los *Personaje*s poseen rasgos que comparten, como he mencionado anteriormente son *Lugar* y *Tiempo*. Estas características son mostradas en la plataforma como:
 
-* **cultura**: artistas, filósofos.
+* **Lugar**: permite ver elementos en los cinco continentes.
+* **Tiempo**: dispone de enlaces a otras lineas de tiempo más generales relacionadas.
+
+Además poseen otro aspecto denomindad a, estos campos permiten tanto para relacionar como dividir y simplificar la búqueda.
+
+Estos **Temas** están distiguidos de la siguiente manera:
+
+* **cultural**: artistas, filósofos.
 * **científico**: inventores, descubridores.
 * **politico**: gobernantes, guerreros, cargos políticos y  militares.
 * **religioso**: sacerdotes, guías espirituales, teólogos.
