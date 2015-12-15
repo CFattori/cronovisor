@@ -11,9 +11,9 @@ También es importante remarcar que es en esta etapa en que se mejora el proces
 
 
 
-Tipografía Myriad Pro (versiones Bold, Semibold, Regular y Light) Se aplica tanto para Títulos y texto.
+Tipografía Roboto (versiones Bold, Medium, Regular y Light) Se aplica tanto para Títulos y texto.
 
-El sitio utiliza la tipografía sans serif, considerando su legibilidad, simpleza, y versatilidad, especial para plataformas digitales. De esta manera, se elige la tipografía Myriad Pro en las mencionadas variantes, aplicando distintos tamaños y color, según la paleta elegida, para generar jerarquías de lectura y facilitar su lectura.
+El sitio utiliza la tipografía sans serif, considerando su legibilidad, simpleza, y versatilidad, especial para plataformas digitales. De esta manera, se elige la tipografía Roboto en las mensionadas variantes, aplicando distintos tamaños y color, según la paleta elegida, para generar jerarquías de lectura y facilitar su lectura.
 
 
 ## Paleta Cromática
