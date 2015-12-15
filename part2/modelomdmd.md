@@ -1,6 +1,10 @@
 # Modelo
 
-
+Las funciones y operaciones esta plataforma estan representadas en el modelo que se presenta de la siguiente manera:
+Base de datos: Los datos que componen el contenido de la plataforma sirven para construir los elementos que el usuario relacionará para construir relaciones. Estos datos son eextraidos de la Wikidata.
+Elementos: Los elementos construidos con la base de datos se transorman en objetos deno- mindados “Hechos” y “Personajes”, cada uno con características propias, pero a la vez con rasgos semejantes para permitir relacionearse unos con otros y permitir que sean representados tem- poral y geográ camente.
+Relaciones: Los elementos forman la linea base de conocimiento para el usuario, las relaciones son elementos que el usuario crea para darle otorgar un discurso a estos elementos, y presentar a la clase y al profesor su razonamineto en base a lo investigado, esta posee distintas maneras de verse en favor de la dinámica del discurso.
+Cronovisiones: Tras la construcción de relaciones en conjuto con los elementos (Hechos, Perso- najes) el usuario crea estas presentaciones denominadas “Cronovisiones”, en la cual muestra sus ob- servaciones en base a la relacion de eventos y personajes, fundamentando con textos e imágenes.
 
 ## Propuesta
 
