@@ -8,7 +8,7 @@ Las funciones y operaciones esta plataforma estan representadas en el modelo que
 
 **Relaciones**: Los elementos forman la linea base de conocimiento para el usuario, las relaciones son elementos que el usuario crea para darle otorgar un discurso a estos elementos, y presentar a la clase y al profesor su razonamineto en base a lo investigado, esta posee distintas maneras de verse en favor de la dinámica del discurso.
 
-**Cronovisiones**: Tras la construcción de relaciones en conjuto con los elementos (Hechos, Perso- najes) el usuario crea estas presentaciones denominadas “Cronovisiones”, en la cual muestra sus ob- servaciones en base a la relacion de eventos y personajes, fundamentando con textos e imágenes.
+**Cronovisiones**: Tras la construcción de relaciones en conjuto con los elementos (Hechos, Personajes) el usuario crea estas presentaciones denominadas “*Cronovisiones*”, en la cual muestra sus ob- servaciones en base a la relacion de eventos y personajes, fundamentando con textos e imágenes.
 
 ## Propuesta
 
