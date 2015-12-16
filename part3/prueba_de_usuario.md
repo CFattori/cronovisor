@@ -57,16 +57,18 @@ Tiene una ligera confusión en el ingreso de datos de búsqueda, al principio 
 
 ![](img/prueba/Captura 4.png)
 
+![](img/prueba/Captura 5.png)
+
 No presenta dificultad en la selección de elementos para su presentación, identfica claramente los botones de agregar imagen, mapa, texto o elemento. Y cuando estos se agregan a su cronovisión.
 
 
-![](img/prueba/Captura 5.png)
+![](img/prueba/Captura 6.png)
 
 La sección de crear debe ser donde el usuario debe editar la presentación con los elementos recién guardados, la sección cronovisones está mal enfocada pues aquí es donde deberían estar las cronovisiones  finalizadas.
 
 
 ### Editar presentación
 
-![](img/prueba/Captura 6.png)
+![](img/prueba/Captura 7.png)
 
 Identifica correctamente los botones para editar pues al realizar presentaciones con power point está familiarizada con los botones de interacción y las cosas que puede hacer aquí.
