@@ -60,8 +60,6 @@ Tiene una ligera confusión en el ingreso de datos de búsqueda, al principio 
 No presenta dificultad en la selección de elementos para su presentación, identfica claramente los botones de agregar imagen, mapa, texto o elemento. Y cuando estos se agregan a su cronovisión.
 
 
-### Seleccionar un elemento y agregar a su presentación
-
 ![](img/prueba/Captura 5.png)
 
 La sección de crear debe ser donde el usuario debe editar la presentación con los elementos recién guardados, la sección cronovisones está mal enfocada pues aquí es donde deberían estar las cronovisiones  finalizadas.
